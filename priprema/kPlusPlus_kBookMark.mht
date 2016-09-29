@@ -1,0 +1,2443 @@
+From: <Saved by Mozilla 5.0 (Windows)>
+Subject: kPlusPlus/kBookMark
+Date: Thu, 29 Sep 2016 14:01:13 +0200
+MIME-Version: 1.0
+Content-Type: multipart/related;
+	type="text/html";
+	boundary="----=_NextPart_000_0000_FB6A2390.6C4BDF9B"
+X-MAF-Information: Produced By MAF V4.0.1
+
+This is a multi-part message in MIME format.
+
+------=_NextPart_000_0000_FB6A2390.6C4BDF9B
+Content-Type: text/html;
+	charset="UTF-8"
+Content-Transfer-Encoding: quoted-printable
+Content-Location: https://github.com/kPlusPlus/kBookMark
+
+<!DOCTYPE html><html class=3D" is-copy-enabled" lang=3D"en"><head prefix=3D=
+"og: http://ogp.me/ns# fb: http://ogp.me/ns/fb# object: http://ogp.me/ns/ob=
+ject# article: http://ogp.me/ns/article# profile: http://ogp.me/ns/profile#=
+">
+<meta http-equiv=3D"content-type" content=3D"text/html; charset=3DUTF-8">
+    <meta charset=3D"utf-8">
+   =20
+
+    <link crossorigin=3D"anonymous" href=3D"urn:snapshot-0FA19C22:https://a=
+ssets-cdn.github.com/assets/frameworks-62b8737f6b231559e237d8e84948a713c3b0=
+bc4aa6fcb45856eacbb9aae68ae2.css" integrity=3D"sha256-Yrhzf2sjFVniN9joSUinE=
+8OwvEqm/LRYVurLuarmiuI=3D" media=3D"all" rel=3D"stylesheet">
+    <link crossorigin=3D"anonymous" href=3D"urn:snapshot-DDAFA101:https://a=
+ssets-cdn.github.com/assets/github-bbfd8c2ee3a1579f17abdb11ec3415bfa3ccb796=
+1b794a884b0aba7e7016838c.css" integrity=3D"sha256-u/2MLuOhV58Xq9sR7DQVv6PMt=
+5YbeUqISwq6fnAWg4w=3D" media=3D"all" rel=3D"stylesheet">
+   =20
+   =20
+   =20
+   =20
+
+    <link as=3D"script" href=3D"urn:snapshot-5FB359D7:https://assets-cdn.gi=
+thub.com/assets/frameworks-411d610e4b2b1ffa3d063904534406d08c8351d9ba9b4b3f=
+339bab35e86bb4f3.js" rel=3D"preload">
+   =20
+    <link as=3D"script" href=3D"urn:snapshot-E22B08FA:https://assets-cdn.gi=
+thub.com/assets/github-52a631b0fed6cace95dbc79ae8f778091e0cef04a525e4ad1091=
+877502ccc091.js" rel=3D"preload">
+
+    <meta http-equiv=3D"X-UA-Compatible" content=3D"IE=3Dedge">
+    <meta http-equiv=3D"Content-Language" content=3D"en">
+    <meta name=3D"viewport" content=3D"width=3Ddevice-width">
+   =20
+    <title>kPlusPlus/kBookMark</title>
+    <link rel=3D"search" type=3D"application/opensearchdescription+xml" hre=
+f=3D"https://github.com/opensearch.xml" title=3D"GitHub">
+    <link rel=3D"fluid-icon" href=3D"https://github.com/fluidicon.png" titl=
+e=3D"GitHub">
+    <link rel=3D"apple-touch-icon" href=3D"urn:not-loaded:https://github.co=
+m/apple-touch-icon.png">
+    <link rel=3D"apple-touch-icon" sizes=3D"57x57" href=3D"urn:not-loaded:h=
+ttps://github.com/apple-touch-icon-57x57.png">
+    <link rel=3D"apple-touch-icon" sizes=3D"60x60" href=3D"urn:not-loaded:h=
+ttps://github.com/apple-touch-icon-60x60.png">
+    <link rel=3D"apple-touch-icon" sizes=3D"72x72" href=3D"urn:not-loaded:h=
+ttps://github.com/apple-touch-icon-72x72.png">
+    <link rel=3D"apple-touch-icon" sizes=3D"76x76" href=3D"urn:not-loaded:h=
+ttps://github.com/apple-touch-icon-76x76.png">
+    <link rel=3D"apple-touch-icon" sizes=3D"114x114" href=3D"urn:not-loaded=
+:https://github.com/apple-touch-icon-114x114.png">
+    <link rel=3D"apple-touch-icon" sizes=3D"120x120" href=3D"urn:not-loaded=
+:https://github.com/apple-touch-icon-120x120.png">
+    <link rel=3D"apple-touch-icon" sizes=3D"144x144" href=3D"urn:not-loaded=
+:https://github.com/apple-touch-icon-144x144.png">
+    <link rel=3D"apple-touch-icon" sizes=3D"152x152" href=3D"urn:not-loaded=
+:https://github.com/apple-touch-icon-152x152.png">
+    <link rel=3D"apple-touch-icon" sizes=3D"180x180" href=3D"urn:not-loaded=
+:https://github.com/apple-touch-icon-180x180.png">
+    <meta property=3D"fb:app_id" content=3D"1401488693436528">
+
+      <meta content=3D"https://avatars1.githubusercontent.com/u/629755?v=3D=
+3&amp;s=3D400" name=3D"twitter:image:src"><meta content=3D"@github" name=3D=
+"twitter:site"><meta content=3D"summary" name=3D"twitter:card"><meta conten=
+t=3D"kPlusPlus/kBookMark" name=3D"twitter:title"><meta content=3D"Contribut=
+e to kBookMark development by creating an account on GitHub." name=3D"twitt=
+er:description">
+      <meta content=3D"https://avatars1.githubusercontent.com/u/629755?v=3D=
+3&amp;s=3D400" property=3D"og:image"><meta content=3D"GitHub" property=3D"o=
+g:site_name"><meta content=3D"object" property=3D"og:type"><meta content=3D=
+"kPlusPlus/kBookMark" property=3D"og:title"><meta content=3D"https://github=
+.com/kPlusPlus/kBookMark" property=3D"og:url"><meta content=3D"Contribute=
+ to kBookMark development by creating an account on GitHub." property=3D"og=
+:description">
+      <meta name=3D"browser-stats-url" content=3D"https://api.github.com/_p=
+rivate/browser/stats">
+    <meta name=3D"browser-errors-url" content=3D"https://api.github.com/_pr=
+ivate/browser/errors">
+    <link rel=3D"assets" href=3D"https://assets-cdn.github.com/">
+    <link rel=3D"web-socket" href=3D"wss://live.github.com/_sockets/NjI5NzU=
+1Ojk3ZjAyM2M0ODk3NWZlYTdkMTllNTE4ZWI3NzU4NjRhOjY4NzI4ODNlZmVlYTg2YWVlNTdiMG=
+RiNDlkZGYyYTRlMmJkMjQyNmZmMGJkMjBlYzRkZjM0ODQ2MmQxZTEwOTc=3D--2786be84755df=
+db3121cb728d24090758e6ce5d6">
+    <meta name=3D"pjax-timeout" content=3D"1000">
+    <link rel=3D"sudo-modal" href=3D"https://github.com/sessions/sudo_modal=
+">
+    <meta name=3D"request-id" content=3D"8D88DF1C:248D:114E3865:57ED00E0"=
+ data-pjax-transient=3D"">
+
+    <meta name=3D"msapplication-TileImage" content=3D"/windows-tile.png">
+    <meta name=3D"msapplication-TileColor" content=3D"#ffffff">
+    <meta name=3D"selected-link" value=3D"/kPlusPlus/kBookMark" data-pjax-t=
+ransient=3D"">
+
+    <meta name=3D"google-site-verification" content=3D"KT5gs8h0wvaagLKAVWq8=
+bbeNwnZZK1r1XQysX3xurLU">
+<meta name=3D"google-site-verification" content=3D"ZzhVyEFwb7w3e0-uOTltm8Js=
+ck2F5StVihD0exw2fsA">
+    <meta name=3D"google-analytics" content=3D"UA-3769691-2">
+
+<meta content=3D"collector.githubapp.com" name=3D"octolytics-host"><meta co=
+ntent=3D"github" name=3D"octolytics-app-id"><meta content=3D"8D88DF1C:248D:=
+114E3865:57ED00E0" name=3D"octolytics-dimension-request_id"><meta content=
+=3D"629755" name=3D"octolytics-actor-id"><meta content=3D"kPlusPlus" name=
+=3D"octolytics-actor-login"><meta content=3D"e484bad138732eaf8ff7f4b2a631d6=
+5a202083bd22d80e50440e297e05753dea" name=3D"octolytics-actor-hash">
+<meta content=3D"/&lt;user-name&gt;/&lt;repo-name&gt;/files/disambiguate"=
+ data-pjax-transient=3D"true" name=3D"analytics-location">
+<meta content=3D"Repository, create, target:User; billing:false; repo:publi=
+c" data-pjax-transient=3D"true" name=3D"analytics-event">
+
+
+  <meta class=3D"js-ga-set" name=3D"dimension1" content=3D"Logged In">
+
+
+
+        <meta name=3D"hostname" content=3D"github.com">
+    <meta name=3D"user-login" content=3D"kPlusPlus">
+
+        <meta name=3D"expected-hostname" content=3D"github.com">
+      <meta name=3D"js-proxy-site-detection-payload" content=3D"MjgyZWJmNjI=
+zNzJjMjMwNjhhODU0NWM2ODJhZTc2ZjM5NTZiMzQ2ZWE0ZjBkNTYxZGFhOGY4YzkzYjFkNmE1M3=
+x7InJlbW90ZV9hZGRyZXNzIjoiMTQxLjEzNi4yMjMuMjgiLCJyZXF1ZXN0X2lkIjoiOEQ4OERGM=
+UM6MjQ4RDoxMTRFMzg2NTo1N0VEMDBFMCIsInRpbWVzdGFtcCI6MTQ3NTE1MDA0OH0=3D">
+
+
+      <link rel=3D"mask-icon" href=3D"https://assets-cdn.github.com/pinned-=
+octocat.svg" color=3D"#4078c0">
+      <link rel=3D"icon" type=3D"image/x-icon" href=3D"urn:not-loaded:https=
+://assets-cdn.github.com/favicon.ico">
+
+    <meta name=3D"html-safe-nonce" content=3D"2bfc9c5e24bc3356bd4a235936ad0=
+ee47284466c">
+    <meta content=3D"33ee3ae5829e68ce3bb6a415b85b0df9de0fb1b2" name=3D"form=
+-nonce">
+
+    <meta http-equiv=3D"x-pjax-version" content=3D"dc3b5550e17f9e647ae6fb31=
+5a4b12c5">
+   =20
+
+     =20
+  <meta name=3D"description" content=3D"Contribute to kBookMark development=
+ by creating an account on GitHub.">
+  <meta name=3D"go-import" content=3D"github.com/kPlusPlus/kBookMark git ht=
+tps://github.com/kPlusPlus/kBookMark.git">
+
+  <meta content=3D"629755" name=3D"octolytics-dimension-user_id"><meta cont=
+ent=3D"kPlusPlus" name=3D"octolytics-dimension-user_login"><meta content=3D=
+"69562877" name=3D"octolytics-dimension-repository_id"><meta content=3D"kPl=
+usPlus/kBookMark" name=3D"octolytics-dimension-repository_nwo"><meta conten=
+t=3D"true" name=3D"octolytics-dimension-repository_public"><meta content=3D=
+"false" name=3D"octolytics-dimension-repository_is_fork"><meta content=3D"6=
+9562877" name=3D"octolytics-dimension-repository_network_root_id"><meta con=
+tent=3D"kPlusPlus/kBookMark" name=3D"octolytics-dimension-repository_networ=
+k_root_nwo">
+  <link href=3D"https://github.com/kPlusPlus/kBookMark/commits/master.atom"=
+ rel=3D"alternate" title=3D"Recent Commits to kBookMark:master" type=3D"app=
+lication/atom+xml">
+
+
+  </head>
+
+
+  <body class=3D"logged-in  env-production windows vis-public"><panel class=
+=3D"drweb_select-panel" style=3D"display: none;"><div class=3D"drweb_tool-p=
+anel"><div class=3D"drweb_tool-icon drweb_tool-icon_show" title=3D"Restore"=
+></div><div class=3D"drweb_tool-icon drweb_tool-icon_remove" title=3D"Remov=
+e"></div><div class=3D"drweb_fit-btn"></div></div><span>Select the elements=
+ you do not want to see on this page</span><div class=3D"drweb_btn">Save</d=
+iv><div class=3D"drweb_btn">Cancel</div><div class=3D"drweb_panel-plug" sty=
+le=3D"display: none;"></div></panel>
+    <div id=3D"js-pjax-loader-bar" class=3D"pjax-loader-bar"><div class=3D"=
+progress"></div></div>
+    <a href=3D"#start-of-content" tabindex=3D"1" class=3D"accessibility-aid=
+ js-skip-to-content">Skip to content</a>
+
+   =20
+   =20
+   =20
+
+
+
+        <div class=3D"header header-logged-in true" role=3D"banner">
+  <div class=3D"container clearfix">
+
+    <a class=3D"header-logo-invertocat" href=3D"https://github.com/" data-h=
+otkey=3D"g d" aria-label=3D"Homepage" data-ga-click=3D"Header, go to dashbo=
+ard, icon:logo">
+  <svg aria-hidden=3D"true" class=3D"octicon octicon-mark-github" height=3D=
+"28" version=3D"1.1" viewBox=3D"0 0 16 16" width=3D"28"><path d=3D"M8 0C3.5=
+8 0 0 3.58 0 8c0 3.54 2.29 6.53 5.47 7.59.4.07.55-.17.55-.38 0-.19-.01-.82-=
+.01-1.49-2.01.37-2.53-.49-2.69-.94-.09-.23-.48-.94-.82-1.13-.28-.15-.68-.52=
+-.01-.53.63-.01 1.08.58 1.23.82.72 1.21 1.87.87 2.33.66.07-.52.28-.87.51-1.=
+07-1.78-.2-3.64-.89-3.64-3.95 0-.87.31-1.59.82-2.15-.08-.2-.36-1.02.08-2.12=
+ 0 0 .67-.21 2.2.82.64-.18 1.32-.27 2-.27.68 0 1.36.09 2 .27 1.53-1.04 2.2-=
+.82 2.2-.82.44 1.1.16 1.92.08 2.12.51.56.82 1.27.82 2.15 0 3.07-1.87 3.75-3=
+.65 3.95.29.25.54.73.54 1.48 0 1.07-.01 1.93-.01 2.2 0 .21.15.46.55.38A8.01=
+3 8.013 0 0 0 16 8c0-4.42-3.58-8-8-8z"></path></svg>
+</a>
+
+
+        <div class=3D"header-search scoped-search site-scoped-search js-sit=
+e-search" role=3D"search">
+  <!-- </textarea> --><!-- '"` --><form accept-charset=3D"UTF-8" action=3D"=
+https://github.com/kPlusPlus/kBookMark/search" class=3D"js-site-search-form=
+" data-scoped-search-url=3D"/kPlusPlus/kBookMark/search" data-unscoped-sear=
+ch-url=3D"/search" method=3D"get"><div style=3D"margin:0;padding:0;display:=
+inline"><input name=3D"utf8" value=3D"=E2=9C=93" type=3D"hidden"></div>
+    <label class=3D"form-control header-search-wrapper js-chromeless-input-=
+container">
+      <div class=3D"header-search-scope">This repository</div>
+      <input class=3D"form-control header-search-input js-site-search-focus=
+ js-site-search-field is-clearable" data-hotkey=3D"s" name=3D"q" placeholde=
+r=3D"Search" aria-label=3D"Search this repository" data-unscoped-placeholde=
+r=3D"Search GitHub" data-scoped-placeholder=3D"Search" autocapitalize=3D"of=
+f" type=3D"text">
+    </label>
+</form></div>
+
+
+      <ul class=3D"header-nav float-left" role=3D"navigation">
+        <li class=3D"header-nav-item">
+          <a href=3D"https://github.com/pulls" aria-label=3D"Pull requests=
+ you created" class=3D"js-selected-navigation-item header-nav-link" data-ga=
+-click=3D"Header, click, Nav menu - item:pulls context:user" data-hotkey=3D=
+"g p" data-selected-links=3D"/pulls /pulls/assigned /pulls/mentioned /pulls=
+">
+            Pull requests
+</a>        </li>
+        <li class=3D"header-nav-item">
+          <a href=3D"https://github.com/issues" aria-label=3D"Issues you cr=
+eated" class=3D"js-selected-navigation-item header-nav-link" data-ga-click=
+=3D"Header, click, Nav menu - item:issues context:user" data-hotkey=3D"g i"=
+ data-selected-links=3D"/issues /issues/assigned /issues/mentioned /issues">
+            Issues
+</a>        </li>
+          <li class=3D"header-nav-item">
+            <a class=3D"header-nav-link" href=3D"https://gist.github.com/"=
+ data-ga-click=3D"Header, go to gist, text:gist">Gist</a>
+          </li>
+      </ul>
+
+   =20
+<ul class=3D"header-nav user-nav float-right" id=3D"user-links">
+  <li class=3D"header-nav-item">
+   =20
+    <a href=3D"https://github.com/notifications" aria-label=3D"You have no=
+ unread notifications" class=3D"header-nav-link notification-indicator tool=
+tipped tooltipped-s js-socket-channel js-notification-indicator" data-chann=
+el=3D"tenant:1:notification-changed:629755" data-ga-click=3D"Header, go to=
+ notifications, icon:read" data-hotkey=3D"g n">
+        <span class=3D"mail-status "></span>
+        <svg aria-hidden=3D"true" class=3D"octicon octicon-bell" height=3D"=
+16" version=3D"1.1" viewBox=3D"0 0 14 16" width=3D"14"><path d=3D"M14 12v1H=
+0v-1l.73-.58c.77-.77.81-2.55 1.19-4.42C2.69 3.23 6 2 6 2c0-.55.45-1 1-1s1=
+ .45 1 1c0 0 3.39 1.23 4.16 5 .38 1.88.42 3.66 1.19 4.42l.66.58H14zm-7 4c1.=
+11 0 2-.89 2-2H5c0 1.11.89 2 2 2z"></path></svg>
+</a>
+  </li>
+
+  <li class=3D"header-nav-item dropdown js-menu-container">
+    <a class=3D"header-nav-link tooltipped tooltipped-s js-menu-target" hre=
+f=3D"https://github.com/new" aria-label=3D"Create new=E2=80=A6" data-ga-cli=
+ck=3D"Header, create new, icon:add">
+      <svg aria-hidden=3D"true" class=3D"octicon octicon-plus float-left"=
+ height=3D"16" version=3D"1.1" viewBox=3D"0 0 12 16" width=3D"12"><path d=
+=3D"M12 9H7v5H5V9H0V7h5V2h2v5h5z"></path></svg>
+      <span class=3D"dropdown-caret"></span>
+    </a>
+
+    <div class=3D"dropdown-menu-content js-menu-content">
+      <ul class=3D"dropdown-menu dropdown-menu-sw">
+       =20
+<a class=3D"dropdown-item" href=3D"https://github.com/new" data-ga-click=3D=
+"Header, create new repository">
+  New repository
+</a>
+
+  <a class=3D"dropdown-item" href=3D"https://github.com/new/import" data-ga=
+-click=3D"Header, import a repository">
+    Import repository
+  </a>
+
+
+  <a class=3D"dropdown-item" href=3D"https://github.com/organizations/new"=
+ data-ga-click=3D"Header, create new organization">
+    New organization
+  </a>
+
+
+
+  <div class=3D"dropdown-divider"></div>
+  <div class=3D"dropdown-header">
+    <span title=3D"kPlusPlus/kBookMark">This repository</span>
+  </div>
+    <a class=3D"dropdown-item" href=3D"https://github.com/kPlusPlus/kBookMa=
+rk/issues/new" data-ga-click=3D"Header, create new issue">
+      New issue
+    </a>
+    <a class=3D"dropdown-item" href=3D"https://github.com/kPlusPlus/kBookMa=
+rk/settings/collaboration" data-ga-click=3D"Header, create new collaborator=
+">
+      New collaborator
+    </a>
+
+      </ul>
+    </div>
+  </li>
+
+  <li class=3D"header-nav-item dropdown js-menu-container">
+    <a class=3D"header-nav-link name tooltipped tooltipped-sw js-menu-targe=
+t" href=3D"https://github.com/kPlusPlus" aria-label=3D"View profile and mor=
+e" data-ga-click=3D"Header, show menu, icon:avatar">
+      <img alt=3D"@kPlusPlus" class=3D"avatar" src=3D"https://avatars2.gith=
+ubusercontent.com/u/629755?v=3D3&amp;s=3D40" width=3D"20" height=3D"20">
+      <span class=3D"dropdown-caret"></span>
+    </a>
+
+    <div class=3D"dropdown-menu-content js-menu-content">
+      <div class=3D"dropdown-menu dropdown-menu-sw">
+        <div class=3D"dropdown-header header-nav-current-user css-truncate">
+          Signed in as <strong class=3D"css-truncate-target">kPlusPlus</str=
+ong>
+        </div>
+
+        <div class=3D"dropdown-divider"></div>
+
+        <a class=3D"dropdown-item" href=3D"https://github.com/kPlusPlus" da=
+ta-ga-click=3D"Header, go to profile, text:your profile">
+          Your profile
+        </a>
+        <a class=3D"dropdown-item" href=3D"https://github.com/kPlusPlus?tab=
+=3Dstars" data-ga-click=3D"Header, go to starred repos, text:your stars">
+          Your stars
+        </a>
+        <a class=3D"dropdown-item" href=3D"https://github.com/explore" data=
+-ga-click=3D"Header, go to explore, text:explore">
+          Explore
+        </a>
+          <a class=3D"dropdown-item" href=3D"https://github.com/integration=
+s" data-ga-click=3D"Header, go to integrations, text:integrations">
+            Integrations
+          </a>
+        <a class=3D"dropdown-item" href=3D"https://help.github.com/" data-g=
+a-click=3D"Header, go to help, text:help">
+          Help
+        </a>
+
+
+        <div class=3D"dropdown-divider"></div>
+
+        <a class=3D"dropdown-item" href=3D"https://github.com/settings/prof=
+ile" data-ga-click=3D"Header, go to settings, icon:settings">
+          Settings
+        </a>
+
+        <!-- </textarea> --><!-- '"` --><form accept-charset=3D"UTF-8" acti=
+on=3D"https://github.com/logout" class=3D"logout-form" data-form-nonce=3D"3=
+3ee3ae5829e68ce3bb6a415b85b0df9de0fb1b2" method=3D"post"><div style=3D"marg=
+in:0;padding:0;display:inline"><input name=3D"utf8" value=3D"=E2=9C=93" typ=
+e=3D"hidden"><input name=3D"authenticity_token" value=3D"oE5gtDLVDFvD/j8gqM=
+RSXCMRjOstdrc7vsHnUIVhEEq48BCfm5ASlpZ9CbqWp3jA6eLs9rUkwr5fseP50BQktw=3D=3D"=
+ type=3D"hidden"></div>
+          <button class=3D"dropdown-item dropdown-signout" data-ga-click=3D=
+"Header, sign out, icon:logout">
+            Sign out
+          </button>
+</form>      </div>
+    </div>
+  </li>
+</ul>
+
+
+   =20
+  </div>
+</div>
+
+
+     =20
+
+
+    <div id=3D"start-of-content" class=3D"accessibility-aid"></div>
+
+      <div id=3D"js-flash-container">
+</div>
+
+
+    <div role=3D"main">
+        <div itemscope=3D"" itemtype=3D"http://schema.org/SoftwareSourceCod=
+e">
+    <div id=3D"js-repo-pjax-container" data-pjax-container=3D"">
+     =20
+<div class=3D"pagehead repohead instapaper_ignore readability-menu experime=
+nt-repo-nav">
+  <div class=3D"container repohead-details-container">
+
+   =20
+
+<ul class=3D"pagehead-actions">
+
+  <li>
+        <!-- </textarea> --><!-- '"` --><form accept-charset=3D"UTF-8" acti=
+on=3D"https://github.com/notifications/subscribe" class=3D"js-social-contai=
+ner" data-autosubmit=3D"true" data-form-nonce=3D"33ee3ae5829e68ce3bb6a415b8=
+5b0df9de0fb1b2" data-remote=3D"true" method=3D"post"><div style=3D"margin:0=
+;padding:0;display:inline"><input name=3D"utf8" value=3D"=E2=9C=93" type=3D=
+"hidden"><input name=3D"authenticity_token" value=3D"zWv+AwKXC3W6T8imVlmJE4=
+LPpCfx2Kcp0mp3tKV0uAF8K7fmRAOmdap9UzuZQpCHjCYthi2/9X/B1Z6OBHou0w=3D=3D" typ=
+e=3D"hidden"></div>      <input class=3D"form-control" id=3D"repository_id"=
+ name=3D"repository_id" value=3D"69562877" type=3D"hidden">
+
+        <div class=3D"select-menu js-menu-container js-select-menu">
+          <a href=3D"https://github.com/kPlusPlus/kBookMark/subscription"=
+ class=3D"btn btn-sm btn-with-count select-menu-button js-menu-target" role=
+=3D"button" tabindex=3D"0" aria-haspopup=3D"true" data-ga-click=3D"Reposito=
+ry, click Watch settings, action:files#disambiguate">
+            <span class=3D"js-select-button">
+              <svg aria-hidden=3D"true" class=3D"octicon octicon-eye" heigh=
+t=3D"16" version=3D"1.1" viewBox=3D"0 0 16 16" width=3D"16"><path d=3D"M8.0=
+6 2C3 2 0 8 0 8s3 6 8.06 6C13 14 16 8 16 8s-3-6-7.94-6zM8 12c-2.2 0-4-1.78-=
+4-4 0-2.2 1.8-4 4-4 2.22 0 4 1.8 4 4 0 2.22-1.78 4-4 4zm2-4c0 1.11-.89 2-2=
+ 2-1.11 0-2-.89-2-2 0-1.11.89-2 2-2 1.11 0 2 .89 2 2z"></path></svg>
+              Unwatch
+            </span>
+          </a>
+          <a class=3D"social-count js-social-count" href=3D"https://github.=
+com/kPlusPlus/kBookMark/watchers" aria-label=3D"1 user is watching this rep=
+ository">
+            1
+          </a>
+
+        <div class=3D"select-menu-modal-holder">
+          <div class=3D"select-menu-modal subscription-menu-modal js-menu-c=
+ontent" aria-hidden=3D"true">
+            <div class=3D"select-menu-header js-navigation-enable" tabindex=
+=3D"-1">
+              <svg aria-label=3D"Close" class=3D"octicon octicon-x js-menu-=
+close" height=3D"16" role=3D"img" version=3D"1.1" viewBox=3D"0 0 12 16" wid=
+th=3D"12"><path d=3D"M7.48 8l3.75 3.75-1.48 1.48L6 9.48l-3.75 3.75-1.48-1.4=
+8L4.52 8 .77 4.25l1.48-1.48L6 6.52l3.75-3.75 1.48 1.48z"></path></svg>
+              <span class=3D"select-menu-title">Notifications</span>
+            </div>
+
+              <div class=3D"select-menu-list js-navigation-container" role=
+=3D"menu">
+
+                <div class=3D"select-menu-item js-navigation-item " role=3D=
+"menuitem" tabindex=3D"0">
+                  <svg aria-hidden=3D"true" class=3D"octicon octicon-check=
+ select-menu-item-icon" height=3D"16" version=3D"1.1" viewBox=3D"0 0 12 16"=
+ width=3D"12"><path d=3D"M12 5l-8 8-4-4 1.5-1.5L4 10l6.5-6.5z"></path></svg>
+                  <div class=3D"select-menu-item-text">
+                    <input id=3D"do_included" name=3D"do" value=3D"included=
+" type=3D"radio">
+                    <span class=3D"select-menu-item-heading">Not watching</=
+span>
+                    <span class=3D"description">Be notified when participat=
+ing or @mentioned.</span>
+                    <span class=3D"js-select-button-text hidden-select-butt=
+on-text">
+                      <svg aria-hidden=3D"true" class=3D"octicon octicon-ey=
+e" height=3D"16" version=3D"1.1" viewBox=3D"0 0 16 16" width=3D"16"><path=
+ d=3D"M8.06 2C3 2 0 8 0 8s3 6 8.06 6C13 14 16 8 16 8s-3-6-7.94-6zM8 12c-2.2=
+ 0-4-1.78-4-4 0-2.2 1.8-4 4-4 2.22 0 4 1.8 4 4 0 2.22-1.78 4-4 4zm2-4c0 1.1=
+1-.89 2-2 2-1.11 0-2-.89-2-2 0-1.11.89-2 2-2 1.11 0 2 .89 2 2z"></path></sv=
+g>
+                      Watch
+                    </span>
+                  </div>
+                </div>
+
+                <div class=3D"select-menu-item js-navigation-item selected"=
+ role=3D"menuitem" tabindex=3D"0">
+                  <svg aria-hidden=3D"true" class=3D"octicon octicon-check=
+ select-menu-item-icon" height=3D"16" version=3D"1.1" viewBox=3D"0 0 12 16"=
+ width=3D"12"><path d=3D"M12 5l-8 8-4-4 1.5-1.5L4 10l6.5-6.5z"></path></svg>
+                  <div class=3D"select-menu-item-text">
+                    <input checked=3D"checked" id=3D"do_subscribed" name=3D=
+"do" value=3D"subscribed" type=3D"radio">
+                    <span class=3D"select-menu-item-heading">Watching</span>
+                    <span class=3D"description">Be notified of all conversa=
+tions.</span>
+                    <span class=3D"js-select-button-text hidden-select-butt=
+on-text">
+                      <svg aria-hidden=3D"true" class=3D"octicon octicon-ey=
+e" height=3D"16" version=3D"1.1" viewBox=3D"0 0 16 16" width=3D"16"><path=
+ d=3D"M8.06 2C3 2 0 8 0 8s3 6 8.06 6C13 14 16 8 16 8s-3-6-7.94-6zM8 12c-2.2=
+ 0-4-1.78-4-4 0-2.2 1.8-4 4-4 2.22 0 4 1.8 4 4 0 2.22-1.78 4-4 4zm2-4c0 1.1=
+1-.89 2-2 2-1.11 0-2-.89-2-2 0-1.11.89-2 2-2 1.11 0 2 .89 2 2z"></path></sv=
+g>
+                      Unwatch
+                    </span>
+                  </div>
+                </div>
+
+                <div class=3D"select-menu-item js-navigation-item " role=3D=
+"menuitem" tabindex=3D"0">
+                  <svg aria-hidden=3D"true" class=3D"octicon octicon-check=
+ select-menu-item-icon" height=3D"16" version=3D"1.1" viewBox=3D"0 0 12 16"=
+ width=3D"12"><path d=3D"M12 5l-8 8-4-4 1.5-1.5L4 10l6.5-6.5z"></path></svg>
+                  <div class=3D"select-menu-item-text">
+                    <input id=3D"do_ignore" name=3D"do" value=3D"ignore" ty=
+pe=3D"radio">
+                    <span class=3D"select-menu-item-heading">Ignoring</span>
+                    <span class=3D"description">Never be notified.</span>
+                    <span class=3D"js-select-button-text hidden-select-butt=
+on-text">
+                      <svg aria-hidden=3D"true" class=3D"octicon octicon-mu=
+te" height=3D"16" version=3D"1.1" viewBox=3D"0 0 16 16" width=3D"16"><path=
+ d=3D"M8 2.81v10.38c0 .67-.81 1-1.28.53L3 10H1c-.55 0-1-.45-1-1V7c0-.55.45-=
+1 1-1h2l3.72-3.72C7.19 1.81 8 2.14 8 2.81zm7.53 3.22l-1.06-1.06-1.97 1.97-1=
+.97-1.97-1.06 1.06L11.44 8 9.47 9.97l1.06 1.06 1.97-1.97 1.97 1.97 1.06-1.0=
+6L13.56 8l1.97-1.97z"></path></svg>
+                      Stop ignoring
+                    </span>
+                  </div>
+                </div>
+
+              </div>
+
+            </div>
+          </div>
+        </div>
+</form>
+  </li>
+
+  <li>
+   =20
+  <div class=3D"js-toggler-container js-social-container starring-container=
+ ">
+
+    <!-- </textarea> --><!-- '"` --><form accept-charset=3D"UTF-8" action=
+=3D"https://github.com/kPlusPlus/kBookMark/unstar" class=3D"starred" data-f=
+orm-nonce=3D"33ee3ae5829e68ce3bb6a415b85b0df9de0fb1b2" data-remote=3D"true"=
+ method=3D"post"><div style=3D"margin:0;padding:0;display:inline"><input na=
+me=3D"utf8" value=3D"=E2=9C=93" type=3D"hidden"><input name=3D"authenticity=
+_token" value=3D"GRCEHM5DPyXDfY36hy4qlfom2nD9kZYwp3aPUMUtwy1OUyQKFImAJoKoIf=
+/Da8VKPi0NPkI7+LpJtsYT9ouGdw=3D=3D" type=3D"hidden"></div>
+      <button class=3D"btn btn-sm btn-with-count js-toggler-target" aria-la=
+bel=3D"Unstar this repository" title=3D"Unstar kPlusPlus/kBookMark" data-ga=
+-click=3D"Repository, click unstar button, action:files#disambiguate; text:=
+Unstar">
+        <svg aria-hidden=3D"true" class=3D"octicon octicon-star" height=3D"=
+16" version=3D"1.1" viewBox=3D"0 0 14 16" width=3D"14"><path d=3D"M14 6l-4.=
+9-.64L7 1 4.9 5.36 0 6l3.6 3.26L2.67 14 7 11.67 11.33 14l-.93-4.74z"></path=
+></svg>
+        Unstar
+      </button>
+        <a class=3D"social-count js-social-count" href=3D"https://github.co=
+m/kPlusPlus/kBookMark/stargazers" aria-label=3D"0 users starred this reposi=
+tory">
+          0
+        </a>
+</form>
+    <!-- </textarea> --><!-- '"` --><form accept-charset=3D"UTF-8" action=
+=3D"https://github.com/kPlusPlus/kBookMark/star" class=3D"unstarred" data-f=
+orm-nonce=3D"33ee3ae5829e68ce3bb6a415b85b0df9de0fb1b2" data-remote=3D"true"=
+ method=3D"post"><div style=3D"margin:0;padding:0;display:inline"><input na=
+me=3D"utf8" value=3D"=E2=9C=93" type=3D"hidden"><input name=3D"authenticity=
+_token" value=3D"Mdjvo5BsXgg+vwU8Mwst948K+nNcK39ga1HVPQ/IrjOmpJ2Kcod8ozLMHP=
+kpGwIC5GZNGfB9QCNjqcc8xjLgBg=3D=3D" type=3D"hidden"></div>
+      <button class=3D"btn btn-sm btn-with-count js-toggler-target" aria-la=
+bel=3D"Star this repository" title=3D"Star kPlusPlus/kBookMark" data-ga-cli=
+ck=3D"Repository, click star button, action:files#disambiguate; text:Star">
+        <svg aria-hidden=3D"true" class=3D"octicon octicon-star" height=3D"=
+16" version=3D"1.1" viewBox=3D"0 0 14 16" width=3D"14"><path d=3D"M14 6l-4.=
+9-.64L7 1 4.9 5.36 0 6l3.6 3.26L2.67 14 7 11.67 11.33 14l-.93-4.74z"></path=
+></svg>
+        Star
+      </button>
+        <a class=3D"social-count js-social-count" href=3D"https://github.co=
+m/kPlusPlus/kBookMark/stargazers" aria-label=3D"0 users starred this reposi=
+tory">
+          0
+        </a>
+</form>  </div>
+
+  </li>
+
+  <li>
+        <span aria-label=3D"Cannot fork because repository is empty." class=
+=3D"btn btn-sm btn-with-count disabled" title=3D"Cannot fork because reposi=
+tory is empty.">
+          <svg aria-hidden=3D"true" class=3D"octicon octicon-repo-forked"=
+ height=3D"16" version=3D"1.1" viewBox=3D"0 0 10 16" width=3D"10"><path d=
+=3D"M8 1a1.993 1.993 0 0 0-1 3.72V6L5 8 3 6V4.72A1.993 1.993 0 0 0 2 1a1.99=
+3 1.993 0 0 0-1 3.72V6.5l3 3v1.78A1.993 1.993 0 0 0 5 15a1.993 1.993 0 0 0=
+ 1-3.72V9.5l3-3V4.72A1.993 1.993 0 0 0 8 1zM2 4.2C1.34 4.2.8 3.65.8 3c0-.65=
+.55-1.2 1.2-1.2.65 0 1.2.55 1.2 1.2 0 .65-.55 1.2-1.2 1.2zm3 10c-.66 0-1.2-=
+.55-1.2-1.2 0-.65.55-1.2 1.2-1.2.65 0 1.2.55 1.2 1.2 0 .65-.55 1.2-1.2 1.2z=
+m3-10c-.66 0-1.2-.55-1.2-1.2 0-.65.55-1.2 1.2-1.2.65 0 1.2.55 1.2 1.2 0 .65=
+-.55 1.2-1.2 1.2z"></path></svg>
+          Fork
+</span>
+    <a href=3D"https://github.com/kPlusPlus/kBookMark/network" class=3D"soc=
+ial-count" aria-label=3D"0 users are forked this repository">
+      0
+    </a>
+  </li>
+</ul>
+
+    <h1 class=3D"public ">
+  <svg aria-hidden=3D"true" class=3D"octicon octicon-repo" height=3D"16" ve=
+rsion=3D"1.1" viewBox=3D"0 0 12 16" width=3D"12"><path d=3D"M4 9H3V8h1v1zm0=
+-3H3v1h1V6zm0-2H3v1h1V4zm0-2H3v1h1V2zm8-1v12c0 .55-.45 1-1 1H6v2l-1.5-1.5L3=
+ 16v-2H1c-.55 0-1-.45-1-1V1c0-.55.45-1 1-1h10c.55 0 1 .45 1 1zm-1 10H1v2h2v=
+-1h3v1h5v-2zm0-10H2v9h9V1z"></path></svg>
+  <span class=3D"author" itemprop=3D"author"><a href=3D"https://github.com/=
+kPlusPlus" class=3D"url fn" rel=3D"author">kPlusPlus</a></span><!--
+--><span class=3D"path-divider">/</span><!--
+--><strong itemprop=3D"name"><a href=3D"#" data-pjax=3D"#js-repo-pjax-conta=
+iner">kBookMark</a></strong>
+
+</h1>
+
+  </div>
+  <div class=3D"container">
+   =20
+<nav class=3D"reponav js-repo-nav js-sidenav-container-pjax" itemscope=3D""=
+ itemtype=3D"http://schema.org/BreadcrumbList" role=3D"navigation" data-pja=
+x=3D"#js-repo-pjax-container">
+
+  <span itemscope=3D"" itemtype=3D"http://schema.org/ListItem" itemprop=3D"=
+itemListElement">
+    <a href=3D"#" aria-selected=3D"true" class=3D"js-selected-navigation-it=
+em selected reponav-item" data-hotkey=3D"g c" data-selected-links=3D"repo_s=
+ource repo_downloads repo_commits repo_releases repo_tags repo_branches /kP=
+lusPlus/kBookMark" itemprop=3D"url">
+      <svg aria-hidden=3D"true" class=3D"octicon octicon-code" height=3D"16=
+" version=3D"1.1" viewBox=3D"0 0 14 16" width=3D"14"><path d=3D"M9.5 3L8 4.=
+5 11.5 8 8 11.5 9.5 13 14 8 9.5 3zm-5 0L0 8l4.5 5L6 11.5 2.5 8 6 4.5 4.5 3z=
+"></path></svg>
+      <span itemprop=3D"name">Code</span>
+      <meta itemprop=3D"position" content=3D"1">
+</a>  </span>
+
+    <span itemscope=3D"" itemtype=3D"http://schema.org/ListItem" itemprop=
+=3D"itemListElement">
+      <a href=3D"https://github.com/kPlusPlus/kBookMark/issues" class=3D"js=
+-selected-navigation-item reponav-item" data-hotkey=3D"g i" data-selected-l=
+inks=3D"repo_issues repo_labels repo_milestones /kPlusPlus/kBookMark/issues=
+" itemprop=3D"url">
+        <svg aria-hidden=3D"true" class=3D"octicon octicon-issue-opened" he=
+ight=3D"16" version=3D"1.1" viewBox=3D"0 0 14 16" width=3D"14"><path d=3D"M=
+7 2.3c3.14 0 5.7 2.56 5.7 5.7s-2.56 5.7-5.7 5.7A5.71 5.71 0 0 1 1.3 8c0-3.1=
+4 2.56-5.7 5.7-5.7zM7 1C3.14 1 0 4.14 0 8s3.14 7 7 7 7-3.14 7-7-3.14-7-7-7z=
+m1 3H6v5h2V4zm0 6H6v2h2v-2z"></path></svg>
+        <span itemprop=3D"name">Issues</span>
+        <span class=3D"counter">0</span>
+        <meta itemprop=3D"position" content=3D"2">
+</a>    </span>
+
+  <span itemscope=3D"" itemtype=3D"http://schema.org/ListItem" itemprop=3D"=
+itemListElement">
+    <a href=3D"https://github.com/kPlusPlus/kBookMark/pulls" class=3D"js-se=
+lected-navigation-item reponav-item" data-hotkey=3D"g p" data-selected-link=
+s=3D"repo_pulls /kPlusPlus/kBookMark/pulls" itemprop=3D"url">
+      <svg aria-hidden=3D"true" class=3D"octicon octicon-git-pull-request"=
+ height=3D"16" version=3D"1.1" viewBox=3D"0 0 12 16" width=3D"12"><path d=
+=3D"M11 11.28V5c-.03-.78-.34-1.47-.94-2.06C9.46 2.35 8.78 2.03 8 2H7V0L4 3l=
+3 3V4h1c.27.02.48.11.69.31.21.2.3.42.31.69v6.28A1.993 1.993 0 0 0 10 15a1.9=
+93 1.993 0 0 0 1-3.72zm-1 2.92c-.66 0-1.2-.55-1.2-1.2 0-.65.55-1.2 1.2-1.2.=
+65 0 1.2.55 1.2 1.2 0 .65-.55 1.2-1.2 1.2zM4 3c0-1.11-.89-2-2-2a1.993 1.993=
+ 0 0 0-1 3.72v6.56A1.993 1.993 0 0 0 2 15a1.993 1.993 0 0 0 1-3.72V4.72c.59=
+-.34 1-.98 1-1.72zm-.8 10c0 .66-.55 1.2-1.2 1.2-.65 0-1.2-.55-1.2-1.2 0-.65=
+.55-1.2 1.2-1.2.65 0 1.2.55 1.2 1.2zM2 4.2C1.34 4.2.8 3.65.8 3c0-.65.55-1.2=
+ 1.2-1.2.65 0 1.2.55 1.2 1.2 0 .65-.55 1.2-1.2 1.2z"></path></svg>
+      <span itemprop=3D"name">Pull requests</span>
+      <span class=3D"counter">0</span>
+      <meta itemprop=3D"position" content=3D"3">
+</a>  </span>
+
+  <a href=3D"https://github.com/kPlusPlus/kBookMark/projects" class=3D"js-s=
+elected-navigation-item reponav-item" data-selected-links=3D"repo_projects=
+ new_repo_project repo_project /kPlusPlus/kBookMark/projects">
+    <svg class=3D"octicon" aria-hidden=3D"true" version=3D"1.1" width=3D"15=
+" height=3D"16" viewBox=3D"0 0 15 16">
+      <path d=3D"M1 15h13V1H1v14zM15 1v14a1 1 0 0 1-1 1H1a1 1 0 0 1-1-1V1a1=
+ 1 0 0 1 1-1h13a1 1 0 0 1 1 1zm-4.41 11h1.82c.59 0 .59-.41.59-1V3c0-.59 0-1=
+-.59-1h-1.82C10 2 10 2.41 10 3v8c0 .59 0 1 .59 1zm-4-2h1.82C9 10 9 9.59 9=
+ 9V3c0-.59 0-1-.59-1H6.59C6 2 6 2.41 6 3v6c0 .59 0 1 .59 1zM2 13V3c0-.59 0-=
+1 .59-1h1.82C5 2 5 2.41 5 3v10c0 .59 0 1-.59 1H2.59C2 14 2 13.59 2 13z"></p=
+ath>
+    </svg>
+    Projects
+    <span class=3D"counter">0</span>
+</a>
+    <a href=3D"https://github.com/kPlusPlus/kBookMark/wiki" class=3D"js-sel=
+ected-navigation-item reponav-item" data-hotkey=3D"g w" data-selected-links=
+=3D"repo_wiki /kPlusPlus/kBookMark/wiki">
+      <svg aria-hidden=3D"true" class=3D"octicon octicon-book" height=3D"16=
+" version=3D"1.1" viewBox=3D"0 0 16 16" width=3D"16"><path d=3D"M3 5h4v1H3V=
+5zm0 3h4V7H3v1zm0 2h4V9H3v1zm11-5h-4v1h4V5zm0 2h-4v1h4V7zm0 2h-4v1h4V9zm2-6=
+v9c0 .55-.45 1-1 1H9.5l-1 1-1-1H2c-.55 0-1-.45-1-1V3c0-.55.45-1 1-1h5.5l1=
+ 1 1-1H15c.55 0 1 .45 1 1zm-8 .5L7.5 3H2v9h6V3.5zm7-.5H9.5l-.5.5V12h6V3z"><=
+/path></svg>
+      Wiki
+</a>
+
+  <a href=3D"https://github.com/kPlusPlus/kBookMark/pulse" class=3D"js-sele=
+cted-navigation-item reponav-item" data-selected-links=3D"pulse /kPlusPlus/=
+kBookMark/pulse">
+    <svg aria-hidden=3D"true" class=3D"octicon octicon-pulse" height=3D"16"=
+ version=3D"1.1" viewBox=3D"0 0 14 16" width=3D"14"><path d=3D"M11.5 8L8.8=
+ 5.4 6.6 8.5 5.5 1.6 2.38 8H0v2h3.6l.9-1.8.9 5.4L9 8.5l1.6 1.5H14V8z"></pat=
+h></svg>
+    Pulse
+</a>
+  <a href=3D"https://github.com/kPlusPlus/kBookMark/graphs" class=3D"js-sel=
+ected-navigation-item reponav-item" data-selected-links=3D"repo_graphs repo=
+_contributors /kPlusPlus/kBookMark/graphs">
+    <svg aria-hidden=3D"true" class=3D"octicon octicon-graph" height=3D"16"=
+ version=3D"1.1" viewBox=3D"0 0 16 16" width=3D"16"><path d=3D"M16 14v1H0V0=
+h1v14h15zM5 13H3V8h2v5zm4 0H7V3h2v10zm4 0h-2V6h2v7z"></path></svg>
+    Graphs
+</a>
+    <a href=3D"https://github.com/kPlusPlus/kBookMark/settings" class=3D"js=
+-selected-navigation-item reponav-item" data-selected-links=3D"repo_setting=
+s repo_branch_settings hooks integration_installations /kPlusPlus/kBookMark=
+/settings">
+      <svg aria-hidden=3D"true" class=3D"octicon octicon-gear" height=3D"16=
+" version=3D"1.1" viewBox=3D"0 0 14 16" width=3D"14"><path d=3D"M14 8.77v-1=
+.6l-1.94-.64-.45-1.09.88-1.84-1.13-1.13-1.81.91-1.09-.45-.69-1.92h-1.6l-.63=
+ 1.94-1.11.45-1.84-.88-1.13 1.13.91 1.81-.45 1.09L0 7.23v1.59l1.94.64.45 1.=
+09-.88 1.84 1.13 1.13 1.81-.91 1.09.45.69 1.92h1.59l.63-1.94 1.11-.45 1.84.=
+88 1.13-1.13-.92-1.81.47-1.09L14 8.75v.02zM7 11c-1.66 0-3-1.34-3-3s1.34-3=
+ 3-3 3 1.34 3 3-1.34 3-3 3z"></path></svg>
+      Settings
+</a>
+</nav>
+
+  </div>
+</div>
+
+<div class=3D"container new-discussion-timeline experiment-repo-nav">
+  <div class=3D"repository-content">
+
+   =20
+
+
+      <div class=3D"outline-box-group empty-repo js-git-clone-help-containe=
+r">
+
+        <div class=3D"outline-box outline-box-highlighted empty-repo-setup-=
+option">
+          <h3><strong>Quick setup</strong> =E2=80=94 if you=E2=80=99ve done=
+ this kind of thing before</h3>
+
+          <div class=3D"flex-table my-2">
+            <div class=3D"flex-table-item">
+                <a href=3D"github-windows://openRepo/https://github.com/kPl=
+usPlus/kBookMark" class=3D"btn btn-sm primary" title=3D"Set up kPlusPlus/kB=
+ookMark using GitHub Desktop" aria-label=3D"Set up kPlusPlus/kBookMark usin=
+g GitHub Desktop" data-ga-click=3D"Empty repo, click, Clicked Set up in Des=
+ktop (Windows)"><svg aria-hidden=3D"true" class=3D"octicon octicon-desktop-=
+download" height=3D"16" version=3D"1.1" viewBox=3D"0 0 16 16" width=3D"16">=
+<path d=3D"M4 6h3V0h2v6h3l-4 4-4-4zm11-4h-4v1h4v8H1V3h4V2H1c-.55 0-1 .45-1=
+ 1v9c0 .55.45 1 1 1h5.34c-.25.61-.86 1.39-2.34 2h8c-1.48-.61-2.09-1.39-2.34=
+-2H15c.55 0 1-.45 1-1V3c0-.55-.45-1-1-1z"></path></svg> Set up in Desktop</=
+a>
+            </div>
+            <div class=3D"flex-table-item">
+              <strong class=3D"or-text">or</strong>
+            </div>
+            <div class=3D"flex-table-item flex-table-item-primary">
+              <div class=3D"url-box">
+                <span class=3D"clone-urls js-zeroclipboard-container">
+                    <!-- </textarea> --><!-- '"` --><form accept-charset=3D=
+"UTF-8" action=3D"https://github.com/users/set_protocol?protocol_selector=
+=3Dhttp&amp;protocol_type=3Dpush" class=3D"clone-url-button js-clone-url-bu=
+tton selected" data-form-nonce=3D"33ee3ae5829e68ce3bb6a415b85b0df9de0fb1b2"=
+ data-remote=3D"true" method=3D"post"><div style=3D"margin:0;padding:0;disp=
+lay:inline"><input name=3D"utf8" value=3D"=E2=9C=93" type=3D"hidden"><input=
+ name=3D"authenticity_token" value=3D"6SUQn4YyLCRTgKP4+Z15dWMDrn3EOVxVFyxoH=
+8zzN6Gu1Khgs5Th0IJXinUSuwGP492+e4p5nd07uqM5kNeTXg=3D=3D" type=3D"hidden"></=
+div>
+                      <button type=3D"submit" class=3D"clone-url-link js-gi=
+t-clone-help-switcher js-git-protocol-clone-url" data-url=3D"https://github=
+.com/kPlusPlus/kBookMark.git" data-ga-click=3D"Empty repo, click, Clicked=
+ HTTPS protocol">
+                        HTTPS
+                      </button>
+</form>                    <!-- </textarea> --><!-- '"` --><form accept-cha=
+rset=3D"UTF-8" action=3D"https://github.com/users/set_protocol?protocol_sel=
+ector=3Dssh&amp;protocol_type=3Dpush" class=3D"clone-url-button js-clone-ur=
+l-button " data-form-nonce=3D"33ee3ae5829e68ce3bb6a415b85b0df9de0fb1b2" dat=
+a-remote=3D"true" method=3D"post"><div style=3D"margin:0;padding:0;display:=
+inline"><input name=3D"utf8" value=3D"=E2=9C=93" type=3D"hidden"><input nam=
+e=3D"authenticity_token" value=3D"VwRiiP6t1jdQ6hR8rSi8XLgtNGDzQrS/2EG5d7cLB=
+E/3P9m/zIRQrhfMbT34MOqj9CTgkrays3XozyVBWmIx1w=3D=3D" type=3D"hidden"></div>
+                      <button type=3D"submit" class=3D"clone-url-link js-gi=
+t-clone-help-switcher js-git-protocol-clone-url" data-url=3D"git@github.com=
+:kPlusPlus/kBookMark.git" data-ga-click=3D"Empty repo, click, Clicked SSH=
+ protocol">
+                        SSH
+                      </button>
+</form>                  <input readonly=3D"readonly" spellcheck=3D"false"=
+ class=3D"form-control input-sm input-monospace rounded-0 width-full js-git=
+-clone-help-field js-zeroclipboard-target" value=3D"https://github.com/kPlu=
+sPlus/kBookMark.git" aria-label=3D"Clone URL" type=3D"text">
+                  <span class=3D"clone-url-button url-box-clippy">
+                    <button aria-label=3D"Copy to clipboard" class=3D"js-ze=
+roclipboard btn btn-sm zeroclipboard-button tooltipped tooltipped-s" data-c=
+opied-hint=3D"Copied!" data-ga-click=3D"Empty repo, click, Clicked copy URL=
+" type=3D"button"><svg aria-hidden=3D"true" class=3D"octicon octicon-clippy=
+" height=3D"16" version=3D"1.1" viewBox=3D"0 0 14 16" width=3D"14"><path d=
+=3D"M2 13h4v1H2v-1zm5-6H2v1h5V7zm2 3V8l-3 3 3 3v-2h5v-2H9zM4.5 9H2v1h2.5V9z=
+M2 12h2.5v-1H2v1zm9 1h1v2c-.02.28-.11.52-.3.7-.19.18-.42.28-.7.3H1c-.55 0-1=
+-.45-1-1V4c0-.55.45-1 1-1h3c0-1.11.89-2 2-2 1.11 0 2 .89 2 2h3c.55 0 1 .45=
+ 1 1v5h-1V6H1v9h10v-2zM2 5h8c0-.55-.45-1-1-1H8c-.55 0-1-.45-1-1s-.45-1-1-1-=
+1 .45-1 1-.45 1-1 1H3c-.55 0-1 .45-1 1z"></path></svg></button>
+                  </span>
+                </span>
+              </div>
+            </div>
+          </div>
+
+          <p>
+            We recommend every repository include a
+            <a href=3D"https://github.com/kPlusPlus/kBookMark/new/master?re=
+adme=3D1" data-ga-click=3D"Empty repo, click, Clicked README link">README</=
+a>,
+            <a href=3D"https://github.com/kPlusPlus/kBookMark/new/master?fi=
+lename=3DLICENSE.md" data-ga-click=3D"Empty repo, click, Clicked LICENSE li=
+nk">LICENSE</a>,
+            and <a href=3D"https://github.com/kPlusPlus/kBookMark/new/maste=
+r?filename=3D.gitignore" data-ga-click=3D"Empty repo, click, Clicked .gitig=
+nore link">.gitignore</a>.
+          </p>
+        </div>
+
+        <div class=3D"outline-box empty-repo-setup-option">
+          <h3>=E2=80=A6or create a new repository on the command line</h3>
+
+          <div class=3D"copyable-terminal js-zeroclipboard-container">
+            <div class=3D"copyable-terminal-button">
+              <button aria-label=3D"Copy to clipboard" class=3D"js-zeroclip=
+board btn btn-sm zeroclipboard-button tooltipped tooltipped-s" data-copied-=
+hint=3D"Copied!" data-ga-click=3D"Empty repo, click, Clicked copy new repo=
+ commands" type=3D"button"><svg aria-hidden=3D"true" class=3D"octicon octic=
+on-clippy" height=3D"16" version=3D"1.1" viewBox=3D"0 0 14 16" width=3D"14"=
+><path d=3D"M2 13h4v1H2v-1zm5-6H2v1h5V7zm2 3V8l-3 3 3 3v-2h5v-2H9zM4.5 9H2v=
+1h2.5V9zM2 12h2.5v-1H2v1zm9 1h1v2c-.02.28-.11.52-.3.7-.19.18-.42.28-.7.3H1c=
+-.55 0-1-.45-1-1V4c0-.55.45-1 1-1h3c0-1.11.89-2 2-2 1.11 0 2 .89 2 2h3c.55=
+ 0 1 .45 1 1v5h-1V6H1v9h10v-2zM2 5h8c0-.55-.45-1-1-1H8c-.55 0-1-.45-1-1s-.4=
+5-1-1-1-1 .45-1 1-.45 1-1 1H3c-.55 0-1 .45-1 1z"></path></svg></button>
+            </div>
+            <pre class=3D"copyable-terminal-content js-zeroclipboard-target=
+"><span class=3D"user-select-contain">echo "# kBookMark" &gt;&gt; README.md=
+</span>
+<span class=3D"user-select-contain">git init</span>
+<span class=3D"user-select-contain">git add README.md</span>
+<span class=3D"user-select-contain">git commit -m "first commit"</span>
+<span class=3D"user-select-contain">git remote add origin <span class=3D"js=
+-git-clone-help-text">https://github.com/kPlusPlus/kBookMark.git</span></sp=
+an>
+<span class=3D"user-select-contain">git push -u origin master</span>
+</pre>
+          </div>
+        </div>
+
+        <div class=3D"outline-box empty-repo-setup-option">
+          <h3>=E2=80=A6or push an existing repository from the command line=
+</h3>
+
+          <div class=3D"copyable-terminal js-zeroclipboard-container">
+            <div class=3D"copyable-terminal-button">
+              <button aria-label=3D"Copy to clipboard" class=3D"js-zeroclip=
+board btn btn-sm zeroclipboard-button tooltipped tooltipped-s" data-copied-=
+hint=3D"Copied!" data-ga-click=3D"Empty repo, click, Clicked copy existing=
+ repo commands" type=3D"button"><svg aria-hidden=3D"true" class=3D"octicon=
+ octicon-clippy" height=3D"16" version=3D"1.1" viewBox=3D"0 0 14 16" width=
+=3D"14"><path d=3D"M2 13h4v1H2v-1zm5-6H2v1h5V7zm2 3V8l-3 3 3 3v-2h5v-2H9zM4=
+.5 9H2v1h2.5V9zM2 12h2.5v-1H2v1zm9 1h1v2c-.02.28-.11.52-.3.7-.19.18-.42.28-=
+.7.3H1c-.55 0-1-.45-1-1V4c0-.55.45-1 1-1h3c0-1.11.89-2 2-2 1.11 0 2 .89 2=
+ 2h3c.55 0 1 .45 1 1v5h-1V6H1v9h10v-2zM2 5h8c0-.55-.45-1-1-1H8c-.55 0-1-.45=
+-1-1s-.45-1-1-1-1 .45-1 1-.45 1-1 1H3c-.55 0-1 .45-1 1z"></path></svg></but=
+ton>
+            </div>
+            <pre class=3D"copyable-terminal-content js-zeroclipboard-target=
+"><span class=3D"user-select-contain">git remote add origin <span class=3D"=
+js-git-clone-help-text">https://github.com/kPlusPlus/kBookMark.git</span></=
+span>
+<span class=3D"user-select-contain">git push -u origin master</span></pre>
+          </div>
+        </div>
+
+        <div class=3D"outline-box empty-repo-setup-option">
+          <h3>=E2=80=A6or import code from another repository</h3>
+          <p>You can initialize this repository with code from a Subversion=
+, Mercurial, or TFS project.</p>
+          <p><a href=3D"https://github.com/kPlusPlus/kBookMark/import" clas=
+s=3D"btn btn-sm" data-ga-click=3D"Empty repo, click, Clicked Import code">I=
+mport code</a></p>
+        </div>
+      </div><!-- /.empty-repo -->
+
+      <div class=3D"protip">
+        <svg aria-hidden=3D"true" class=3D"octicon octicon-light-bulb text-=
+gray" height=3D"16" version=3D"1.1" viewBox=3D"0 0 12 16" width=3D"12"><pat=
+h d=3D"M6.5 0C3.48 0 1 2.19 1 5c0 .92.55 2.25 1 3 1.34 2.25 1.78 2.78 2 4v1=
+h5v-1c.22-1.22.66-1.75 2-4 .45-.75 1-2.08 1-3 0-2.81-2.48-5-5.5-5zm3.64 7.4=
+8c-.25.44-.47.8-.67 1.11-.86 1.41-1.25 2.06-1.45 3.23-.02.05-.02.11-.02.17H=
+5c0-.06 0-.13-.02-.17-.2-1.17-.59-1.83-1.45-3.23-.2-.31-.42-.67-.67-1.11C2.=
+44 6.78 2 5.65 2 5c0-2.2 2.02-4 4.5-4 1.22 0 2.36.42 3.22 1.19C10.55 2.94=
+ 11 3.94 11 5c0 .66-.44 1.78-.86 2.48zM4 14h5c-.23 1.14-1.3 2-2.5 2s-2.27-.=
+86-2.5-2z"></path></svg>
+        <strong>ProTip!</strong> Use the URL for this page when adding GitH=
+ub as a remote.
+      </div>
+
+
+
+  </div>
+  <div class=3D"modal-backdrop js-touch-events"></div>
+</div>
+
+
+    </div>
+  </div>
+
+    </div>
+
+        <div class=3D"container site-footer-container">
+  <div class=3D"site-footer" role=3D"contentinfo">
+    <ul class=3D"site-footer-links float-right">
+        <li><a href=3D"https://github.com/contact" data-ga-click=3D"Footer,=
+ go to contact, text:contact">Contact GitHub</a></li>
+      <li><a href=3D"https://developer.github.com/" data-ga-click=3D"Footer=
+, go to api, text:api">API</a></li>
+      <li><a href=3D"https://training.github.com/" data-ga-click=3D"Footer,=
+ go to training, text:training">Training</a></li>
+      <li><a href=3D"https://shop.github.com/" data-ga-click=3D"Footer, go=
+ to shop, text:shop">Shop</a></li>
+        <li><a href=3D"https://github.com/blog" data-ga-click=3D"Footer, go=
+ to blog, text:blog">Blog</a></li>
+        <li><a href=3D"https://github.com/about" data-ga-click=3D"Footer,=
+ go to about, text:about">About</a></li>
+
+    </ul>
+
+    <a href=3D"https://github.com/" aria-label=3D"Homepage" class=3D"site-f=
+ooter-mark" title=3D"GitHub">
+      <svg aria-hidden=3D"true" class=3D"octicon octicon-mark-github" heigh=
+t=3D"24" version=3D"1.1" viewBox=3D"0 0 16 16" width=3D"24"><path d=3D"M8=
+ 0C3.58 0 0 3.58 0 8c0 3.54 2.29 6.53 5.47 7.59.4.07.55-.17.55-.38 0-.19-.0=
+1-.82-.01-1.49-2.01.37-2.53-.49-2.69-.94-.09-.23-.48-.94-.82-1.13-.28-.15-.=
+68-.52-.01-.53.63-.01 1.08.58 1.23.82.72 1.21 1.87.87 2.33.66.07-.52.28-.87=
+.51-1.07-1.78-.2-3.64-.89-3.64-3.95 0-.87.31-1.59.82-2.15-.08-.2-.36-1.02.0=
+8-2.12 0 0 .67-.21 2.2.82.64-.18 1.32-.27 2-.27.68 0 1.36.09 2 .27 1.53-1.0=
+4 2.2-.82 2.2-.82.44 1.1.16 1.92.08 2.12.51.56.82 1.27.82 2.15 0 3.07-1.87=
+ 3.75-3.65 3.95.29.25.54.73.54 1.48 0 1.07-.01 1.93-.01 2.2 0 .21.15.46.55.=
+38A8.013 8.013 0 0 0 16 8c0-4.42-3.58-8-8-8z"></path></svg>
+</a>
+    <ul class=3D"site-footer-links">
+      <li>=C2=A9 2016 <span title=3D"0.07057s from github-fe158-cp1-prd.iad=
+.github.net">GitHub</span>, Inc.</li>
+        <li><a href=3D"https://github.com/site/terms" data-ga-click=3D"Foot=
+er, go to terms, text:terms">Terms</a></li>
+        <li><a href=3D"https://github.com/site/privacy" data-ga-click=3D"Fo=
+oter, go to privacy, text:privacy">Privacy</a></li>
+        <li><a href=3D"https://github.com/security" data-ga-click=3D"Footer=
+, go to security, text:security">Security</a></li>
+        <li><a href=3D"https://status.github.com/" data-ga-click=3D"Footer,=
+ go to status, text:status">Status</a></li>
+        <li><a href=3D"https://help.github.com/" data-ga-click=3D"Footer,=
+ go to help, text:help">Help</a></li>
+    </ul>
+  </div>
+</div>
+
+
+
+   =20
+
+    <div id=3D"ajax-error-message" class=3D"ajax-error-message flash flash-=
+error">
+      <svg aria-hidden=3D"true" class=3D"octicon octicon-alert" height=3D"1=
+6" version=3D"1.1" viewBox=3D"0 0 16 16" width=3D"16"><path d=3D"M8.865 1.5=
+2c-.18-.31-.51-.5-.87-.5s-.69.19-.87.5L.275 13.5c-.18.31-.18.69 0 1 .19.31.=
+52.5.87.5h13.7c.36 0 .69-.19.86-.5.17-.31.18-.69.01-1L8.865 1.52zM8.995 13h=
+-2v-2h2v2zm0-3h-2V6h2v4z"></path></svg>
+      <button type=3D"button" class=3D"flash-close js-flash-close js-ajax-e=
+rror-dismiss" aria-label=3D"Dismiss error">
+        <svg aria-hidden=3D"true" class=3D"octicon octicon-x" height=3D"16"=
+ version=3D"1.1" viewBox=3D"0 0 12 16" width=3D"12"><path d=3D"M7.48 8l3.75=
+ 3.75-1.48 1.48L6 9.48l-3.75 3.75-1.48-1.48L4.52 8 .77 4.25l1.48-1.48L6 6.5=
+2l3.75-3.75 1.48 1.48z"></path></svg>
+      </button>
+      You can't perform that action at this time.
+    </div>
+
+
+     =20
+      <script crossorigin=3D"anonymous" integrity=3D"sha256-QR1hDksrH/o9Bjk=
+EU0QG0IyDUdm6m0s/M5urNehrtPM=3D" src=3D"urn:snapshot-5FB359D7:https://asset=
+s-cdn.github.com/assets/frameworks-411d610e4b2b1ffa3d063904534406d08c8351d9=
+ba9b4b3f339bab35e86bb4f3.js"></script>
+      <script async=3D"async" crossorigin=3D"anonymous" integrity=3D"sha256=
+-UqYxsP7Wys6V28ea6Pd4CR4M7wSlJeStEJGHdQLMwJE=3D" src=3D"urn:snapshot-E22B08=
+FA:https://assets-cdn.github.com/assets/github-52a631b0fed6cace95dbc79ae8f7=
+78091e0cef04a525e4ad1091877502ccc091.js"></script>
+     =20
+     =20
+     =20
+     =20
+     =20
+     =20
+    <div class=3D"js-stale-session-flash stale-session-flash flash flash-wa=
+rn flash-banner d-none">
+      <svg aria-hidden=3D"true" class=3D"octicon octicon-alert" height=3D"1=
+6" version=3D"1.1" viewBox=3D"0 0 16 16" width=3D"16"><path d=3D"M8.865 1.5=
+2c-.18-.31-.51-.5-.87-.5s-.69.19-.87.5L.275 13.5c-.18.31-.18.69 0 1 .19.31.=
+52.5.87.5h13.7c.36 0 .69-.19.86-.5.17-.31.18-.69.01-1L8.865 1.52zM8.995 13h=
+-2v-2h2v2zm0-3h-2V6h2v4z"></path></svg>
+      <span class=3D"signed-in-tab-flash">You signed in with another tab or=
+ window. <a href=3D"">Reload</a> to refresh your session.</span>
+      <span class=3D"signed-out-tab-flash">You signed out in another tab or=
+ window. <a href=3D"">Reload</a> to refresh your session.</span>
+    </div>
+    <div class=3D"facebox" id=3D"facebox" style=3D"display:none;">
+  <div class=3D"facebox-popup">
+    <div class=3D"facebox-content" role=3D"dialog" aria-labelledby=3D"faceb=
+ox-header" aria-describedby=3D"facebox-description">
+    </div>
+    <button type=3D"button" class=3D"facebox-close js-facebox-close" aria-l=
+abel=3D"Close modal">
+      <svg aria-hidden=3D"true" class=3D"octicon octicon-x" height=3D"16"=
+ version=3D"1.1" viewBox=3D"0 0 12 16" width=3D"12"><path d=3D"M7.48 8l3.75=
+ 3.75-1.48 1.48L6 9.48l-3.75 3.75-1.48-1.48L4.52 8 .77 4.25l1.48-1.48L6 6.5=
+2l3.75-3.75 1.48 1.48z"></path></svg>
+    </button>
+  </div>
+</div>
+
+ =20
+
+
+</body></html>
+------=_NextPart_000_0000_FB6A2390.6C4BDF9B
+Content-Type: image/jpeg
+Content-Transfer-Encoding: base64
+Content-Location: https://avatars2.githubusercontent.com/u/629755?v=3&s=40
+
+/9j/2wCEAAgGBgcGBQgHBwcJCQgKDBQNDAsLDBkSEw8UHRofHh0aHBwgJC4nICIsIxwcKDcpLDAx
+NDQ0Hyc5PTgyPC4zNDIBCQkJDAsMGA0NGDIhHCEyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIy
+MjIyMjIyMjIyMjIyMjIyMjIyMjIyMv/AABEIACgAKAMBIgACEQEDEQH/xAGiAAABBQEBAQEBAQAA
+AAAAAAAAAQIDBAUGBwgJCgsQAAIBAwMCBAMFBQQEAAABfQECAwAEEQUSITFBBhNRYQcicRQygZGh
+CCNCscEVUtHwJDNicoIJChYXGBkaJSYnKCkqNDU2Nzg5OkNERUZHSElKU1RVVldYWVpjZGVmZ2hp
+anN0dXZ3eHl6g4SFhoeIiYqSk5SVlpeYmZqio6Slpqeoqaqys7S1tre4ubrCw8TFxsfIycrS09TV
+1tfY2drh4uPk5ebn6Onq8fLz9PX29/j5+gEAAwEBAQEBAQEBAQAAAAAAAAECAwQFBgcICQoLEQAC
+AQIEBAMEBwUEBAABAncAAQIDEQQFITEGEkFRB2FxEyIygQgUQpGhscEJIzNS8BVictEKFiQ04SXx
+FxgZGiYnKCkqNTY3ODk6Q0RFRkdISUpTVFVWV1hZWmNkZWZnaGlqc3R1dnd4eXqCg4SFhoeIiYqS
+k5SVlpeYmZqio6Slpqeoqaqys7S1tre4ubrCw8TFxsfIycrS09TV1tfY2dri4+Tl5ufo6ery8/T1
+9vf4+fr/2gAMAwEAAhEDEQA/APfJZY4InlldY40UszscBQOpJ7CsaKXU9ZJlikfTbD/lk3lqZ5h/
+ewwIRfYqWP8As9KdqTm816x0oqDbiNru4z0YIVCL+LNu/wCAY71F4tuRa6HJI921vFkBvKVzK5zk
+Kmx1IJx69M54zTSbdkJtJXZY/se7A+XX9TB9SID+hjpmg395dT6jbXUsNwtpMI0uoVKiT5QSCMkb
+lJwccfQ5A89m8SWmI5riW/W3tyJJFkL3CyBgy7Xj89gV+YEdSSvtz3nhXW7bVbKS3hijgktGMZij
+jZF2ZIRlVgCAwHTscjtTcJJXtoSqkG7J6m/RRRUlnI+KNUbw1rtprMkEk9rLayWjKmBtkyHQknhV
+wJMntgVxeoeKX8V36yH7GbW3iIjitrsT/OSQxPyrzjAHp83PNerappVnrNi9nfReZCxBwGKkEHII
+I5BrzrxJ4Z0nQIIbXT7y+jvJWZ441dNsa/xMVKYxnoOpJ+prtwUoqorq7POzKE5UZPmsv68r/icm
+viD+0bSOzXVDd3FqWzDnEzgNkRzFcgqjdOAB6+uno2qajZyX15DMsTXEcKWrRxbt0e872UnK4/2m
+GDswo71gjS9PgikvI4ZXhWffP/AJQOr7VAVwCc8jscdq6i707Wk3XV3puqhCgUXDOLggZ4AQM7Ac
+n+ECuxwjFxhUaUd/X+vM85VJzU6lFSlK1ru2n3a+ll16nd+DNan1TSdt9dRy3qO2VICS+Xn5WdAB
+g/QY6fSulrx/wXpOrPrmn3cMcsKwyublmidYxG24lV3YySdowM4/AGvXtpryqsYxm1F6HuUJylBO
+S1/rucX478X3nh+7sNPso1D3aO8lw2D5SrgAAHjJJ6nj5Twa8/vLh9QtZ7trm6lkmlAmmYgSyoGw
+RHxjkZ2gADnjGc1u/Fj/AJDmn/8AXuf5tXO2f/IG03/fg/8ARi16GGilh5SW9meVjZN4mEW9Lr0+
+47CfwheWtnLLNe6athEhLXHzABQOf3eMfhuruPDkFzbeGNJgvc/ao7OFJs9d4QA5/GsjxH/yTnU/
++vaX+ZrqV+6PpXBVrVKtud3sepQw1Khf2atcWiiisjc//9k=
+------=_NextPart_000_0000_FB6A2390.6C4BDF9B
+Content-Type: text/css
+Content-Transfer-Encoding: quoted-printable
+Content-Location: urn:snapshot-0FA19C22:https://assets-cdn.github.com/assets/frameworks-62b8737f6b231559e237d8e84948a713c3b0bc4aa6fcb45856eacbb9aae68ae2.css
+
+/* Effective stylesheet produced by snapshot save */
+@keyframes blink {
+  0% {  }
+  50% { background-color: transparent; }
+  100% {  }
+}
+@keyframes blink {
+  0% {  }
+  50% { background-color: transparent; }
+  100% {  }
+}
+.CodeMirror-line::-moz-selection, .CodeMirror-line > span::-moz-selection,=
+ .CodeMirror-line > span > span::-moz-selection { background: rgb(215, 212,=
+ 240) none repeat scroll 0% 0%; }
+.CodeMirror-line::-moz-selection, .CodeMirror-line > span::-moz-selection,=
+ .CodeMirror-line > span > span::-moz-selection { background: rgb(215, 212,=
+ 240) none repeat scroll 0% 0%; }
+.cm-tab-wrap-hack::after { content: ""; }
+.octicon { display: inline-block; vertical-align: text-top; fill: currentco=
+lor; }
+html { font-family: sans-serif; }
+body { margin: 0px; }
+article, aside, details, figcaption, figure, footer, header, main, menu, na=
+v, section, summary { display: block; }
+audio:not([controls]) { display: none; height: 0px; }
+a { background-color: transparent; }
+a:active, a:hover { outline-width: 0px; }
+b, strong { font-weight: inherit; }
+b, strong { font-weight: bolder; }
+h1 { font-size: 2em; margin: 0.67em 0px; }
+img { border-style: none; }
+svg:not(:root) { overflow: hidden; }
+code, kbd, pre, samp { font-family: monospace,monospace; font-size: 1em; }
+button, input, select, textarea { font: inherit; margin: 0px; }
+button, input { overflow: visible; }
+button, select { text-transform: none; }
+button, html [type=3D"button"], [type=3D"reset"], [type=3D"submit"] {  }
+button::-moz-focus-inner, [type=3D"button"]::-moz-focus-inner, [type=3D"res=
+et"]::-moz-focus-inner, [type=3D"submit"]::-moz-focus-inner { border-style:=
+ none; padding: 0px; }
+button:-moz-focusring, [type=3D"button"]:-moz-focusring, [type=3D"reset"]:-=
+moz-focusring, [type=3D"submit"]:-moz-focusring { outline: 1px dotted butto=
+ntext; }
+[type=3D"checkbox"], [type=3D"radio"] { box-sizing: border-box; padding: 0p=
+x; }
+* { box-sizing: border-box; }
+input, select, textarea, button { font-family: inherit; font-size: inherit;=
+ line-height: inherit; }
+body { font-family: -apple-system,BlinkMacSystemFont,"Segoe UI",Roboto,Helv=
+etica,Arial,sans-serif,"Apple Color Emoji","Segoe UI Emoji","Segoe UI Symbo=
+l"; font-size: 14px; line-height: 1.5; color: rgb(51, 51, 51); background-c=
+olor: rgb(255, 255, 255); }
+a { color: rgb(64, 120, 192); text-decoration: none; }
+a:hover, a:active { text-decoration: underline; }
+strong { font-weight: 600; }
+hr::before, .rule::before { display: table; content: ""; }
+hr::after, .rule::after { display: table; clear: both; content: ""; }
+button { cursor: pointer; }
+h1, h2, h3, h4, h5, h6 { margin-top: 0px; margin-bottom: 0px; }
+h1 { font-size: 32px; font-weight: 600; }
+h3 { font-size: 20px; font-weight: 600; }
+p { margin-top: 0px; margin-bottom: 10px; }
+ul, ol { padding-left: 0px; margin-top: 0px; margin-bottom: 0px; }
+pre { margin-top: 0px; margin-bottom: 0px; font: 12px Consolas,"Liberation=
+ Mono",Menlo,Courier,monospace; }
+.octicon { vertical-align: text-bottom; }
+.btn { position: relative; display: inline-block; padding: 6px 12px; font-s=
+ize: 14px; font-weight: 600; line-height: 20px; color: rgb(51, 51, 51); whi=
+te-space: nowrap; vertical-align: middle; cursor: pointer; -moz-user-select=
+: none; background-color: rgb(238, 238, 238); background-image: linear-grad=
+ient(rgb(252, 252, 252), rgb(238, 238, 238)); border: 1px solid rgb(213, 21=
+3, 213); border-radius: 3px; -moz-appearance: none; }
+.btn .octicon { vertical-align: text-top; }
+.btn:focus { text-decoration: none; border-color: rgb(81, 167, 232); outlin=
+e: medium none; box-shadow: 0px 0px 5px rgba(81, 167, 232, 0.5); }
+.btn:focus:hover, .btn.selected:focus { border-color: rgb(81, 167, 232); }
+.btn:hover, .btn:active, .btn.zeroclipboard-is-hover, .btn.zeroclipboard-is=
+-active { text-decoration: none; background-color: rgb(221, 221, 221); back=
+ground-image: linear-gradient(rgb(238, 238, 238), rgb(221, 221, 221)); bord=
+er-color: rgb(204, 204, 204); }
+.btn:active, .btn.selected, .btn.zeroclipboard-is-active { background-color=
+: rgb(220, 220, 220); background-image: none; border-color: rgb(181, 181,=
+ 181); box-shadow: 0px 2px 4px rgba(0, 0, 0, 0.15) inset; }
+.btn:disabled, .btn:disabled:hover, .btn.disabled, .btn.disabled:hover { co=
+lor: rgba(102, 102, 102, 0.5); cursor: default; background-color: rgba(229,=
+ 229, 229, 0.5); background-image: none; border-color: rgba(197, 197, 197,=
+ 0.5); box-shadow: none; }
+.btn-with-count { float: left; border-top-right-radius: 0px; border-bottom-=
+right-radius: 0px; }
+.btn-sm { padding: 3px 10px; font-size: 12px; line-height: 20px; }
+.social-count { float: left; padding: 3px 7px; font-size: 12px; font-weight=
+: 600; line-height: 20px; color: rgb(51, 51, 51); vertical-align: middle;=
+ background-color: rgb(255, 255, 255); border-width: 1px 1px 1px 0px; borde=
+r-style: solid solid solid none; border-color: rgb(221, 221, 221) rgb(221,=
+ 221, 221) rgb(221, 221, 221) -moz-use-text-color; -moz-border-top-colors:=
+ none; -moz-border-right-colors: none; -moz-border-bottom-colors: none; -mo=
+z-border-left-colors: none; border-image: none; border-top-right-radius: 3p=
+x; border-bottom-right-radius: 3px; }
+.social-count:hover, .social-count:active { text-decoration: none; }
+.social-count:hover { color: rgb(64, 120, 192); cursor: pointer; }
+.BtnGroup::before { display: table; content: ""; }
+.BtnGroup::after { display: table; clear: both; content: ""; }
+.flex-table { display: table; }
+.flex-table-item { display: table-cell; width: 1%; white-space: nowrap; ver=
+tical-align: middle; }
+.flex-table-item-primary { width: 99%; }
+input, textarea { font-feature-settings: "liga" off; }
+label { font-weight: 600; }
+.form-control, .form-select { min-height: 34px; padding: 6px 8px; font-size=
+: 14px; line-height: 20px; color: rgb(51, 51, 51); vertical-align: middle;=
+ background-color: rgb(255, 255, 255); background-repeat: no-repeat; backgr=
+ound-position: right 8px center; border: 1px solid rgb(221, 221, 221); bord=
+er-radius: 3px; outline: medium none; box-shadow: 0px 1px 2px rgba(0, 0, 0,=
+ 0.075) inset; }
+.form-control.focus, .form-control:focus, .form-select.focus, .form-select:=
+focus { border-color: rgb(81, 167, 232); outline: medium none; box-shadow:=
+ 0px 1px 2px rgba(0, 0, 0, 0.075) inset, 0px 0px 5px rgba(81, 167, 232, 0.5=
+); }
+*::-moz-placeholder { color: rgb(153, 153, 153); }
+.input-sm { min-height: 28px; padding-top: 3px; padding-bottom: 3px; font-s=
+ize: 12px; line-height: 20px; }
+.input-monospace { font-family: Consolas,"Liberation Mono",Menlo,Courier,mo=
+nospace; }
+.hfields::before { display: table; content: ""; }
+.hfields::after { display: table; clear: both; content: ""; }
+.form-actions::before { display: table; content: ""; }
+.form-actions::after { display: table; clear: both; content: ""; }
+.form-group.required dt label::after { padding-left: 5px; color: rgb(189,=
+ 44, 0); content: "*"; }
+.form-group.warn .warning::after, .form-group.warn .warning::before, .form-=
+group.warn .error::after, .form-group.warn .error::before, .form-group.erro=
+red .warning::after, .form-group.errored .warning::before, .form-group.erro=
+red .error::after, .form-group.errored .error::before { position: absolute;=
+ bottom: 100%; left: 10px; z-index: 15; width: 0px; height: 0px; pointer-ev=
+ents: none; content: " "; border: medium solid transparent; }
+.form-group.warn .warning::after, .form-group.warn .error::after, .form-gro=
+up.errored .warning::after, .form-group.errored .error::after { border-widt=
+h: 5px; }
+.form-group.warn .warning::before, .form-group.warn .error::before, .form-g=
+roup.errored .warning::before, .form-group.errored .error::before { margin-=
+left: -1px; border-width: 6px; }
+.form-group.warn .warning::after { border-bottom-color: rgb(255, 249, 234);=
+ }
+.form-group.warn .warning::before { border-bottom-color: rgb(223, 216, 194)=
+; }
+.form-group.errored .error::after { border-bottom-color: rgb(252, 222, 222)=
+; }
+.form-group.errored .error::before { border-bottom-color: rgb(210, 178, 178=
+); }
+.status-indicator-success::before { content: ""; }
+.status-indicator-failed::before { content: ""; }
+.container { width: 980px; margin-right: auto; margin-left: auto; }
+.container::before { display: table; content: ""; }
+.container::after { display: table; clear: both; content: ""; }
+.container-md::before { display: table; content: ""; }
+.container-md::after { display: table; clear: both; content: ""; }
+.container-lg::before { display: table; content: ""; }
+.container-lg::after { display: table; clear: both; content: ""; }
+.container-xl::before { display: table; content: ""; }
+.container-xl::after { display: table; clear: both; content: ""; }
+.columns::before { display: table; content: ""; }
+.columns::after { display: table; clear: both; content: ""; }
+.counter { display: inline-block; padding: 2px 5px; font-size: 12px; font-w=
+eight: 600; line-height: 1; color: rgb(102, 102, 102); background-color: rg=
+b(238, 238, 238); border-radius: 20px; }
+.menu-item:first-child::before { border-top-left-radius: 2px; }
+.menu-item:last-child::before { border-bottom-left-radius: 2px; }
+.menu-item.selected::before { position: absolute; top: 0px; bottom: 0px; le=
+ft: 0px; width: 2px; content: ""; background-color: rgb(210, 105, 17); }
+.subnav::before { display: table; content: ""; }
+.subnav::after { display: table; clear: both; content: ""; }
+.tooltipped { position: relative; }
+.tooltipped::after { position: absolute; z-index: 1000000; display: none;=
+ padding: 5px 8px; font: 11px/1.5 -apple-system,BlinkMacSystemFont,"Segoe=
+ UI",Roboto,Helvetica,Arial,sans-serif,"Apple Color Emoji","Segoe UI Emoji"=
+,"Segoe UI Symbol"; color: rgb(255, 255, 255); text-align: center; text-dec=
+oration: none; text-shadow: none; text-transform: none; letter-spacing: nor=
+mal; overflow-wrap: break-word; white-space: pre; pointer-events: none; con=
+tent: attr(aria-label); background: rgba(0, 0, 0, 0.8) none repeat scroll=
+ 0% 0%; border-radius: 3px; opacity: 0; }
+.tooltipped::before { position: absolute; z-index: 1000001; display: none;=
+ width: 0px; height: 0px; color: rgba(0, 0, 0, 0.8); pointer-events: none;=
+ content: ""; border: 5px solid transparent; opacity: 0; }
+@keyframes tooltip-appear {
+  0% { opacity: 0; }
+  100% { opacity: 1; }
+}
+@keyframes tooltip-appear {
+  0% { opacity: 0; }
+  100% { opacity: 1; }
+}
+.tooltipped:hover::before, .tooltipped:hover::after, .tooltipped:active::be=
+fore, .tooltipped:active::after, .tooltipped:focus::before, .tooltipped:foc=
+us::after { display: inline-block; text-decoration: none; animation-name:=
+ tooltip-appear; animation-duration: 0.1s; animation-fill-mode: forwards;=
+ animation-timing-function: ease-in; animation-delay: 0.4s; }
+.tooltipped-no-delay:hover::before, .tooltipped-no-delay:hover::after, .too=
+ltipped-no-delay:active::before, .tooltipped-no-delay:active::after, .toolt=
+ipped-no-delay:focus::before, .tooltipped-no-delay:focus::after { opacity:=
+ 1; animation: 0s ease 0s normal none 1 running none; }
+.tooltipped-multiline:hover::after, .tooltipped-multiline:active::after, .t=
+ooltipped-multiline:focus::after { display: table-cell; }
+.tooltipped-s::after, .tooltipped-se::after, .tooltipped-sw::after { top:=
+ 100%; right: 50%; margin-top: 5px; }
+.tooltipped-s::before, .tooltipped-se::before, .tooltipped-sw::before { top=
+: auto; right: 50%; bottom: -5px; margin-right: -5px; border-bottom-color:=
+ rgba(0, 0, 0, 0.8); }
+.tooltipped-se::after { right: auto; left: 50%; margin-left: -15px; }
+.tooltipped-sw::after { margin-right: -15px; }
+.tooltipped-n::after, .tooltipped-ne::after, .tooltipped-nw::after { right:=
+ 50%; bottom: 100%; margin-bottom: 5px; }
+.tooltipped-n::before, .tooltipped-ne::before, .tooltipped-nw::before { top=
+: -5px; right: 50%; bottom: auto; margin-right: -5px; border-top-color: rgb=
+a(0, 0, 0, 0.8); }
+.tooltipped-ne::after { right: auto; left: 50%; margin-left: -15px; }
+.tooltipped-nw::after { margin-right: -15px; }
+.tooltipped-s::after, .tooltipped-n::after { transform: translateX(50%); }
+.tooltipped-w::after { right: 100%; bottom: 50%; margin-right: 5px; transfo=
+rm: translateY(50%); }
+.tooltipped-w::before { top: 50%; bottom: 50%; left: -5px; margin-top: -5px=
+; border-left-color: rgba(0, 0, 0, 0.8); }
+.tooltipped-e::after { bottom: 50%; left: 100%; margin-left: 5px; transform=
+: translateY(50%); }
+.tooltipped-e::before { top: 50%; right: -5px; bottom: 50%; margin-top: -5p=
+x; border-right-color: rgba(0, 0, 0, 0.8); }
+.tooltipped-multiline::after { width: -moz-max-content; max-width: 250px;=
+ overflow-wrap: normal; white-space: pre-line; border-collapse: separate;=
+ }
+.tooltipped-multiline.tooltipped-s::after, .tooltipped-multiline.tooltipped=
+-n::after { right: auto; left: 50%; transform: translateX(-50%); }
+.tooltipped-multiline.tooltipped-w::after, .tooltipped-multiline.tooltipped=
+-e::after { right: 100%; }
+@media not all {
+  .tooltipped-multiline::after { width: 250px; }
+}
+.tooltipped-sticky::before, .tooltipped-sticky::after { display: inline-blo=
+ck; }
+.tooltipped-sticky.tooltipped-multiline::after { display: table-cell; }
+@media not all, only screen and (min--moz-device-pixel-ratio: 2), not all,=
+ not all, only screen and (min-resolution: 192dpi), only screen and (min-re=
+solution: 2dppx) {
+  .tooltipped-w::after { margin-right: 4.5px; }
+}
+.css-truncate.css-truncate-target, .css-truncate .css-truncate-target { dis=
+play: inline-block; max-width: 125px; overflow: hidden; text-overflow: elli=
+psis; white-space: nowrap; vertical-align: top; }
+@keyframes fade-in {
+  0% { opacity: 0; }
+  100% { opacity: 1; }
+}
+@keyframes fade-in {
+  0% { opacity: 0; }
+  100% { opacity: 1; }
+}
+@keyframes fade-up {
+  0% { opacity: 0.8; transform: translateY(100%); }
+  100% { opacity: 1; transform: translateY(0px); }
+}
+@keyframes fade-up {
+  0% { opacity: 0.8; transform: translateY(100%); }
+  100% { opacity: 1; transform: translateY(0px); }
+}
+@keyframes fade-down {
+  0% { opacity: 1; transform: translateY(0px); }
+  100% { opacity: 0.5; transform: translateY(100%); }
+}
+@keyframes fade-down {
+  0% { opacity: 1; transform: translateY(0px); }
+  100% { opacity: 0.5; transform: translateY(100%); }
+}
+@keyframes grow-x {
+  100% { width: 100%; }
+}
+@keyframes grow-x {
+  100% { width: 100%; }
+}
+@keyframes shrink-x {
+  100% { width: 0%; }
+}
+@keyframes shrink-x {
+  100% { width: 0%; }
+}
+@keyframes scale-in {
+  0% { opacity: 0; transform: scale(0.5); }
+  100% { opacity: 1; transform: scale(1); }
+}
+@keyframes scale-in {
+  0% { opacity: 0; transform: scale(0.5); }
+  100% { opacity: 1; transform: scale(1); }
+}
+@keyframes pulse {
+  0% { opacity: 0.3; }
+  10% { opacity: 1; }
+  100% { opacity: 0.3; }
+}
+@keyframes pulse {
+  0% { opacity: 0.3; }
+  10% { opacity: 1; }
+  100% { opacity: 0.3; }
+}
+@keyframes pulse-in {
+  0% { transform: scale3d(1, 1, 1); }
+  50% { transform: scale3d(1.1, 1.1, 1.1); }
+  100% { transform: scale3d(1, 1, 1); }
+}
+@keyframes pulse-in {
+  0% { transform: scale3d(1, 1, 1); }
+  50% { transform: scale3d(1.1, 1.1, 1.1); }
+  100% { transform: scale3d(1, 1, 1); }
+}
+.rounded-0 { border-radius: 0px ! important; }
+.text-gray { color: rgb(118, 118, 118) ! important; }
+.clearfix::before { display: table; content: ""; }
+.clearfix::after { display: table; clear: both; content: ""; }
+.float-right { float: right ! important; }
+.float-left { float: left ! important; }
+.width-full { width: 100% ! important; }
+.d-none { display: none ! important; }
+.my-2 { margin-top: 6px ! important; margin-bottom: 6px ! important; }
+
+------=_NextPart_000_0000_FB6A2390.6C4BDF9B
+Content-Type: text/css
+Content-Transfer-Encoding: quoted-printable
+Content-Location: urn:snapshot-DDAFA101:https://assets-cdn.github.com/assets/github-bbfd8c2ee3a1579f17abdb11ec3415bfa3ccb7961b794a884b0aba7e7016838c.css
+
+/* Effective stylesheet produced by snapshot save */
+.flash { position: relative; padding: 15px; font-size: 14px; line-height:=
+ 1.5; color: rgb(34, 68, 102); background-color: rgb(226, 238, 249); border=
+: 1px solid rgb(186, 198, 211); border-radius: 3px; }
+.flash-close { float: right; width: 34px; height: 44px; margin: -11px; line=
+-height: 40px; color: inherit; text-align: center; cursor: pointer; backgro=
+und: transparent none repeat scroll 0% 0%; border: 0px none; -moz-appearanc=
+e: none; opacity: 0.6; }
+.flash-close:hover { opacity: 1; }
+.flash-warn { color: rgb(76, 74, 66); background-color: rgb(255, 249, 234);=
+ border-color: rgb(223, 216, 194); }
+.flash-error { color: rgb(153, 17, 17); background-color: rgb(252, 222, 222=
+); border-color: rgb(210, 178, 178); }
+.avatar { display: inline-block; overflow: hidden; line-height: 1; vertical=
+-align: middle; border-radius: 3px; }
+.markdown-body::before { display: table; content: ""; }
+.markdown-body::after { display: table; clear: both; content: ""; }
+.markdown-body > :first-child { margin-top: 0px ! important; }
+.markdown-body > :last-child { margin-bottom: 0px ! important; }
+.markdown-body a:not([href]) { color: inherit; text-decoration: none; }
+.markdown-body blockquote > :first-child { margin-top: 0px; }
+.markdown-body blockquote > :last-child { margin-bottom: 0px; }
+.markdown-body table tr:nth-child(2n) { background-color: rgb(248, 248, 248=
+); }
+.markdown-body code::before, .markdown-body code::after, .markdown-body tt:=
+:before, .markdown-body tt::after { letter-spacing: -0.2em; content: "=C2=
+=A0"; }
+.markdown-body pre code::before, .markdown-body pre code::after, .markdown-=
+body pre tt::before, .markdown-body pre tt::after { content: normal; }
+.table-list-header::before { display: table; content: ""; }
+.table-list-header::after { display: table; clear: both; content: ""; }
+.bulk-actions-header.is-stuck::after { position: fixed; top: 0px; right: 0p=
+x; left: 0px; z-index: -1; display: block; height: 50px; content: ""; borde=
+r-bottom: 1px solid rgba(0, 0, 0, 0.1); box-shadow: 0px 1px 2px rgba(0, 0,=
+ 0, 0.075); }
+.file-commit-form .commit-form::after, .file-commit-form .commit-form::befo=
+re { position: absolute; top: 11px; right: 100%; left: -16px; display: bloc=
+k; width: 0px; height: 0px; pointer-events: none; content: " "; border-colo=
+r: transparent; border-style: solid solid outset; }
+.file-commit-form .commit-form::after { margin-top: 1px; margin-left: 2px;=
+ border-width: 7px; border-right-color: rgb(255, 255, 255); }
+.file-commit-form .commit-form::before { border-width: 8px; border-right-co=
+lor: rgb(221, 221, 221); }
+.ajax-error-message { position: fixed; top: -200px; left: 50%; z-index: 999=
+9; display: none; width: 974px; margin: 0px 3px 0px -487px; transition: top=
+ 0.5s ease-in-out 0s; }
+.ajax-error-message > .octicon-alert { vertical-align: text-top; }
+.breadcrumb .separator::before, .breadcrumb .separator::after { content: "=
+ "; }
+.starring-container .unstarred, .starring-container.on .starred { display:=
+ block; }
+.starring-container.on .unstarred, .starring-container .starred { display:=
+ none; }
+.capped-card::before { display: table; content: ""; }
+.capped-card::after { display: table; clear: both; content: ""; }
+.capped-card:nth-child(2n+1) { margin-left: 0px; }
+.capped-card:nth-child(2n) { margin-right: 0px; }
+.capped-card-content::before { display: table; content: ""; }
+.capped-card-content::after { display: table; clear: both; content: ""; }
+.container-preview:not(.show-code) .commit-create, .container-preview:not(.=
+show-code) .actions { display: none; }
+.code-list .blob-num::before { content: normal; }
+.previewable-edit .previewable-comment-form::before { display: table; conte=
+nt: ""; }
+.previewable-edit .previewable-comment-form::after { display: table; clear:=
+ both; content: ""; }
+.commit-form::after, .commit-form::before { position: absolute; top: 11px;=
+ right: 100%; left: -16px; display: block; width: 0px; height: 0px; pointer=
+-events: none; content: " "; border-color: transparent; border-style: solid=
+ solid outset; }
+.commit-form::after { margin-top: 1px; margin-left: 2px; border-width: 7px;=
+ border-right-color: rgb(255, 255, 255); }
+.commit-form::before { border-width: 8px; border-right-color: rgb(221, 221,=
+ 221); }
+.commit-form-actions::before { display: table; content: ""; }
+.commit-form-actions::after { display: table; clear: both; content: ""; }
+.commit-tease-contributors::before { display: table; content: ""; }
+.commit-tease-contributors::after { display: table; clear: both; content:=
+ ""; }
+.commits-listing::before { position: absolute; top: 0px; bottom: 0px; left:=
+ 14px; z-index: -1; display: block; width: 2px; content: ""; background-col=
+or: rgb(243, 243, 243); }
+.full-commit .btn-outline:hover:not(:disabled) { color: rgb(64, 120, 192);=
+ border: 1px solid rgb(64, 120, 192); }
+.full-commit .branches-list li::before { padding-right: 6px; font-weight:=
+ normal; content: "+"; }
+.full-commit .branches-list li:first-child::before { padding-right: 0px; co=
+ntent: ""; }
+.full-commit .branches-list li.pull-request::before { margin-left: -8px; co=
+ntent: ""; }
+.commit-build-statuses.active .tooltipped::before, .commit-build-statuses.a=
+ctive .tooltipped::after { display: none; }
+.dropdown-signed-commit .dropdown-menu::after { border-bottom-color: rgb(24=
+9, 249, 249); }
+.dropdown-signed-commit .dropdown-menu-w::after { border-bottom-color: tran=
+sparent; border-left-color: rgb(249, 249, 249); }
+.simple-conversation-list.varied-states > li::before { display: table; cont=
+ent: ""; }
+.simple-conversation-list.varied-states > li::after { display: table; clear=
+: both; content: ""; }
+.copyable-terminal { position: relative; padding: 10px 55px 10px 10px; back=
+ground-color: rgb(247, 247, 247); border-radius: 3px; }
+.copyable-terminal-content { overflow: auto; }
+.copyable-terminal-button { position: absolute; top: 5px; right: 5px; }
+.copyable-terminal-button .zeroclipboard-button { float: right; }
+.copyable-terminal-button .zeroclipboard-button .octicon { padding-left: 1p=
+x; margin: 0px auto; }
+.diff-table tr:not(:last-child) .line-comments { border-top: 1px solid rgb(=
+238, 238, 238); border-bottom: 1px solid rgb(238, 238, 238); }
+.blob-num::before { content: attr(data-line-number); }
+.blob-code-inner::before { content: ""; }
+.blob-expanded + tr:not(.blob-expanded) .blob-num, .blob-expanded + tr:not(=
+.blob-expanded) .blob-code { border-top: 1px solid rgb(238, 238, 238); }
+tr:not(.blob-expanded) + .blob-expanded .blob-num, tr:not(.blob-expanded)=
+ + .blob-expanded .blob-code { border-top: 1px solid rgb(238, 238, 238); }
+.dropdown { position: relative; }
+.dropdown-caret { display: inline-block; width: 0px; height: 0px; vertical-=
+align: middle; content: ""; border-width: 4px; border-style: solid; border-=
+color: -moz-use-text-color transparent transparent; -moz-border-top-colors:=
+ none; -moz-border-right-colors: none; -moz-border-bottom-colors: none; -mo=
+z-border-left-colors: none; border-image: none; }
+.dropdown-menu { position: absolute; top: 100%; left: 0px; z-index: 100; wi=
+dth: 160px; padding-top: 5px; padding-bottom: 5px; margin-top: 2px; backgro=
+und-color: rgb(255, 255, 255); background-clip: padding-box; border: 1px so=
+lid rgba(0, 0, 0, 0.15); border-radius: 4px; box-shadow: 0px 3px 12px rgba(=
+0, 0, 0, 0.15); }
+.dropdown-menu::before, .dropdown-menu::after { position: absolute; display=
+: inline-block; content: ""; }
+.dropdown-menu::before { border-width: 8px; border-style: solid; border-col=
+or: transparent transparent rgba(0, 0, 0, 0.15); -moz-border-top-colors: no=
+ne; -moz-border-right-colors: none; -moz-border-bottom-colors: none; -moz-b=
+order-left-colors: none; border-image: none; }
+.dropdown-menu::after { border-width: 7px; border-style: solid; border-colo=
+r: transparent transparent rgb(255, 255, 255); -moz-border-top-colors: none=
+; -moz-border-right-colors: none; -moz-border-bottom-colors: none; -moz-bor=
+der-left-colors: none; border-image: none; }
+.dropdown-item { display: block; padding: 4px 10px 4px 15px; overflow: hidd=
+en; color: rgb(51, 51, 51); text-overflow: ellipsis; white-space: nowrap;=
+ }
+.dropdown-item:hover, .dropdown-item.zeroclipboard-is-hover { color: rgb(25=
+5, 255, 255); text-decoration: none; background-color: rgb(64, 120, 192);=
+ }
+.dropdown-signout { width: 100%; text-align: left; background: transparent=
+ none repeat scroll 0% 0%; border: 0px none; }
+.dropdown-divider { height: 1px; margin: 8px 1px; background-color: rgb(229=
+, 229, 229); }
+.dropdown-header { padding: 4px 15px; font-size: 12px; color: rgb(118, 118,=
+ 118); }
+.dropdown-menu-content { display: none; }
+.dropdown-menu-w::before { top: 10px; right: -16px; left: auto; border-colo=
+r: transparent transparent transparent rgba(0, 0, 0, 0.15); }
+.dropdown-menu-w::after { top: 11px; right: -14px; left: auto; border-color=
+: transparent transparent transparent rgb(255, 255, 255); }
+.dropdown-menu-e::before { top: 10px; left: -16px; border-color: transparen=
+t rgba(0, 0, 0, 0.15) transparent transparent; }
+.dropdown-menu-e::after { top: 11px; left: -14px; border-color: transparent=
+ rgb(255, 255, 255) transparent transparent; }
+.dropdown-menu-ne::before, .dropdown-menu-ne::after { top: auto; right: aut=
+o; }
+.dropdown-menu-ne::before { bottom: -8px; left: 9px; border-width: 8px 8px=
+ 0px; border-style: solid solid none; border-color: rgba(0, 0, 0, 0.15) tra=
+nsparent -moz-use-text-color; }
+.dropdown-menu-ne::after { bottom: -7px; left: 10px; border-width: 7px 7px=
+ 0px; border-style: solid solid none; border-color: rgb(255, 255, 255) tran=
+sparent -moz-use-text-color; }
+.dropdown-menu-s::before { top: -16px; right: 50%; transform: translateX(50=
+%); }
+.dropdown-menu-s::after { top: -14px; right: 50%; transform: translateX(50%=
+); }
+.dropdown-menu-sw { right: 0px; left: auto; }
+.dropdown-menu-sw::before { top: -16px; right: 9px; left: auto; }
+.dropdown-menu-sw::after { top: -14px; right: 10px; left: auto; }
+.dropdown-menu-se::before { top: -16px; left: 9px; }
+.dropdown-menu-se::after { top: -14px; left: 10px; }
+.facebox { position: absolute; top: 0px; left: 0px; z-index: 100; padding-b=
+ottom: 40px; }
+.facebox-popup { position: relative; background-color: rgb(255, 255, 255);=
+ background-clip: padding-box; border: 1px solid rgba(0, 0, 0, 0.25); borde=
+r-radius: 5px; box-shadow: 0px 0px 18px rgba(0, 0, 0, 0.4); }
+.facebox-content { width: 455px; padding: 15px; }
+.facebox-content::before { display: table; content: ""; }
+.facebox-content::after { display: table; clear: both; content: ""; }
+.facebox-close { position: absolute; top: 8px; right: 5px; padding: 10px;=
+ cursor: pointer; background-color: transparent; border: 0px none; opacity:=
+ 0.25; -moz-appearance: none; }
+.facebox-close:hover { opacity: 1; }
+.flash-banner { position: fixed; top: 0px; z-index: 42; width: 100%; border=
+-top: 0px none; border-right: 0px none; border-left: 0px none; border-radiu=
+s: 0px; }
+.signed-in-tab-flash, .signed-out-tab-flash { display: none; }
+.site-footer { position: relative; padding-top: 40px; padding-bottom: 40px;=
+ margin-top: 40px; font-size: 12px; line-height: 1.5; color: rgb(118, 118,=
+ 118); border-top: 1px solid rgb(238, 238, 238); }
+.site-footer::before { display: table; content: ""; }
+.site-footer::after { display: table; clear: both; content: ""; }
+.site-footer .octicon-mark-github { position: absolute; top: 38px; left: 50=
+%; margin-left: -12px; font-size: 24px; color: rgb(204, 204, 204); }
+.site-footer .octicon-mark-github:hover { color: rgb(187, 187, 187); }
+.site-footer-links { margin: 0px; list-style: outside none none; }
+.site-footer-links li { display: inline-block; line-height: 16px; }
+.site-footer-links li + li { margin-left: 10px; }
+.issue-list-meta::before { display: table; content: ""; }
+.issue-list-meta::after { display: table; clear: both; content: ""; }
+body { min-width: 1020px; overflow-wrap: break-word; }
+.list-group-item::before { display: table; content: ""; }
+.list-group-item::after { display: table; clear: both; content: ""; }
+@keyframes ellipsis {
+  0% { width: 2px; }
+  100% { width: 12px; }
+}
+@keyframes ellipsis {
+  0% { width: 2px; }
+  100% { width: 12px; }
+}
+.outline-box-group { border-radius: 3px; }
+.outline-box { padding: 20px; border: 1px solid rgb(216, 216, 216); }
+.outline-box:first-child { border-top-left-radius: 3px; border-top-right-ra=
+dius: 3px; }
+.outline-box:last-child { border-bottom-right-radius: 3px; border-bottom-le=
+ft-radius: 3px; }
+.outline-box + .outline-box { border-top: 0px none; }
+.outline-box-highlighted { background-color: rgb(247, 250, 253); border-col=
+or: rgb(201, 214, 227); }
+.owner-select-grid::before { display: table; content: ""; }
+.owner-select-grid::after { display: table; clear: both; content: ""; }
+.pagehead { position: relative; padding-top: 20px; padding-bottom: 20px; ma=
+rgin-bottom: 20px; border-bottom: 1px solid rgb(238, 238, 238); }
+.pagehead ul.pagehead-actions { position: relative; z-index: 31; float: rig=
+ht; margin: 0px; }
+.pagehead .path-divider { margin: 0px 0.25em; }
+.pagehead h1 { margin-top: 0px; margin-bottom: 0px; font-size: 20px; font-w=
+eight: normal; line-height: 28px; }
+.pagehead-actions > li { float: left; margin: 0px 10px 0px 0px; font-size:=
+ 11px; color: rgb(51, 51, 51); list-style-type: none; }
+.pagehead-actions > li:last-child { margin-right: 0px; }
+.pagehead-actions .octicon-mute { color: rgb(204, 0, 0); }
+.pagehead-actions .select-menu { position: relative; }
+.pagehead-actions .select-menu::before { display: table; content: ""; }
+.pagehead-actions .select-menu::after { display: table; clear: both; conten=
+t: ""; }
+.pagehead-actions .select-menu-modal-holder { top: 100%; }
+.repohead.experiment-repo-nav { padding-bottom: 0px; background-color: rgb(=
+250, 250, 250); }
+.repohead .repohead-details-container { margin-bottom: 20px; }
+.repohead h1 { position: relative; float: left; max-width: 635px; padding-l=
+eft: 18px; font-size: 18px; line-height: 26px; color: rgb(102, 102, 102);=
+ }
+.repohead h1 .octicon { position: absolute; top: 0px; left: 0px; margin-top=
+: 5px; color: rgb(187, 187, 187); }
+.reponav { position: relative; top: 1px; margin-top: -5px; }
+.reponav::before { display: table; content: ""; }
+.reponav::after { display: table; clear: both; content: ""; }
+.reponav-item { float: left; padding: 7px 15px 8px; color: rgb(102, 102, 10=
+2); white-space: nowrap; border-style: solid; border-color: transparent; -m=
+oz-border-top-colors: none; -moz-border-right-colors: none; -moz-border-bot=
+tom-colors: none; -moz-border-left-colors: none; border-image: none; border=
+-width: 3px 1px 1px; border-radius: 3px 3px 0px 0px; }
+.reponav-item .octicon { color: rgb(187, 187, 187); }
+.reponav-item .counter { color: rgb(85, 85, 85); }
+.reponav-item:hover, .reponav-item:focus { color: rgb(51, 51, 51); text-dec=
+oration: none; }
+.reponav-item.selected { color: rgb(17, 17, 17); background-color: rgb(255,=
+ 255, 255); border-color: rgb(210, 105, 17) rgb(229, 229, 229) transparent;=
+ }
+.reponav-item.selected > .octicon { color: inherit; }
+.pagination::before { display: table; content: ""; }
+.pagination::after { display: table; clear: both; content: ""; }
+.prose-diff.collapsed .rich-diff-level-zero.expandable .unchanged:not(.vici=
+nity) { display: none; }
+.prose-diff.collapsed .rich-diff-level-zero.expandable:only-child::before=
+ { font-size: 18px; color: rgb(211, 211, 211); content: "Sorry, no visible=
+ changes to display."; }
+.prose-diff.collapsed .rich-diff-level-zero.expandable:only-child:hover::be=
+fore { color: rgb(0, 0, 0); }
+.prose-diff :not(.changed) > :not(.github-user-ins):not(.github-user-del)=
+ > .removed, .prose-diff :not(.changed) > :not(.github-user-ins):not(.githu=
+b-user-del) > del { text-decoration: none; }
+.prose-diff > .markdown-body li ul.removed:not(.github-user-ins) { text-dec=
+oration: line-through; }
+.prose-diff > .markdown-body li.removed:not(.moved) { color: rgb(170, 51,=
+ 51); background: rgb(255, 234, 234) none repeat scroll 0% 0%; }
+.prose-diff > .markdown-body li.removed:not(.moved):not(.github-user-ins)=
+ { text-decoration: line-through; }
+.prose-diff > .markdown-body .added:not(.github-user-del):not(.github-user-=
+ins), .prose-diff > .markdown-body ins + .added:not(.github-user-del):not(.=
+github-user-ins), .prose-diff > .markdown-body ins:not(.github-user-del):no=
+t(.github-user-ins) { text-decoration: none; }
+.prose-diff > .markdown-body ins pre:not(.github-user-del):not(.github-user=
+-ins), .prose-diff > .markdown-body ins code:not(.github-user-del):not(.git=
+hub-user-ins), .prose-diff > .markdown-body ins > div:not(.github-user-del)=
+:not(.github-user-ins) { text-decoration: none; }
+.protip { margin-top: 20px; text-align: center; }
+.radio-group::before { display: table; content: ""; }
+.radio-group::after { display: table; clear: both; content: ""; }
+:checked + .radio-label { position: relative; z-index: 1; border-color: rgb=
+(64, 120, 192); }
+.reaction-popover-container.active .tooltipped::before, .reaction-popover-c=
+ontainer.active .tooltipped::after { display: none; }
+.add-reactions-options::before { display: table; content: ""; }
+.add-reactions-options::after { display: table; clear: both; content: "";=
+ }
+.comment-reactions::before { display: table; content: ""; }
+.comment-reactions::after { display: table; clear: both; content: ""; }
+.render-container.is-render-ready.is-render-requested:not(.is-render-failed=
+) { height: 500px; padding: 0px; background: transparent none repeat scroll=
+ 0% 0%; }
+.render-container.is-render-ready.is-render-requested:not(.is-render-failed=
+) .render-viewer { display: block; }
+.render-container.is-render-ready.is-render-requested:not(.is-render-failed=
+) .render-viewer-error, .render-container.is-render-ready.is-render-request=
+ed:not(.is-render-failed) .render-viewer-fatal, .render-container.is-render=
+-ready.is-render-requested:not(.is-render-failed) .octospinner { display:=
+ none; }
+.new-label .label-edit::before { display: table; content: ""; }
+.new-label .label-edit::after { display: table; clear: both; content: "";=
+ }
+.label-edit::before { display: table; content: ""; }
+.label-edit::after { display: table; clear: both; content: ""; }
+.select-menu-button::after { display: inline-block; width: 0px; height: 0px=
+; vertical-align: -2px; content: ""; border-width: 4px; border-style: solid=
+; border-color: -moz-use-text-color transparent transparent; -moz-border-to=
+p-colors: none; -moz-border-right-colors: none; -moz-border-bottom-colors:=
+ none; -moz-border-left-colors: none; border-image: none; }
+.select-menu-button.primary::after { border-top-color: rgb(255, 255, 255); }
+.select-menu-button-large::after { margin-left: 10px; vertical-align: -3px;=
+ border-width: 5px; }
+.select-menu-modal-holder { position: absolute; z-index: 30; display: none;=
+ }
+.select-menu-modal { position: relative; width: 300px; margin-top: 4px; mar=
+gin-bottom: 20px; overflow: hidden; font-size: 12px; color: rgb(102, 102,=
+ 102); background-color: rgb(255, 255, 255); background-clip: padding-box;=
+ border: 1px solid rgba(200, 200, 200, 0.4); border-radius: 3px; box-shadow=
+: 0px 3px 12px rgba(0, 0, 0, 0.15); }
+.select-menu-header { padding: 8px 10px; line-height: 16px; background: rgb=
+(245, 245, 245) none repeat scroll 0% 0%; border-bottom: 1px solid rgba(200=
+, 200, 200, 0.4); }
+.select-menu-header .select-menu-title { font-weight: 600; color: rgb(51,=
+ 51, 51); text-shadow: 0px 1px 0px rgb(255, 255, 255); }
+.select-menu-header .octicon { display: block; float: right; color: rgb(204=
+, 204, 204); cursor: pointer; }
+.select-menu-header .octicon:hover { color: rgb(85, 85, 85); }
+.select-menu-header:focus { outline: medium none; }
+.select-menu-text-filter input::-moz-placeholder { color: rgb(170, 170, 170=
+); }
+.select-menu-list { position: relative; max-height: 400px; overflow: auto; }
+.select-menu-item { display: block; padding: 8px 8px 8px 30px; overflow: hi=
+dden; color: inherit; cursor: pointer; border-bottom: 1px solid rgb(238, 23=
+8, 238); }
+.select-menu-item:hover { text-decoration: none; }
+.select-menu-item .octicon { vertical-align: middle; }
+.select-menu-item .octicon-check { visibility: hidden; }
+.select-menu-item input[type=3D"radio"] { display: none; }
+.select-menu-item.selected { color: rgb(51, 51, 51); }
+.select-menu-item.selected .description { color: rgb(102, 102, 102); }
+.select-menu-item.selected > .octicon { color: rgb(51, 51, 51); }
+.select-menu-item.selected .octicon-check { color: inherit; visibility: vis=
+ible; }
+.select-menu-item .hidden-select-button-text { display: none; }
+.select-menu-item-icon { float: left; margin-left: -20px; }
+.select-menu-list:last-child .select-menu-item:last-child, .select-menu-ite=
+m.last-visible { border-bottom: 0px none; border-radius: 0px 0px 3px 3px;=
+ }
+.select-menu-item-text { display: block; text-align: left; }
+.select-menu-item-text .description { display: block; max-width: 265px; fon=
+t-size: 12px; color: rgb(118, 118, 118); }
+.select-menu-item-heading { display: block; margin-top: 0px; margin-bottom:=
+ 0px; font-size: 14px; font-weight: 600; }
+.modal-backdrop { display: none; -moz-user-select: none; }
+.reorderable-task-lists .markdown-body li:not(.task-list-item) { margin-lef=
+t: 26px; }
+.reorderable-task-lists .markdown-body ol:not(.contains-task-list) li, .reo=
+rderable-task-lists .markdown-body ul:not(.contains-task-list) li { margin-=
+left: 0px; }
+.team-grid::before { display: table; content: ""; }
+.team-grid::after { display: table; clear: both; content: ""; }
+.typeahead-result::before { display: table; content: ""; }
+.typeahead-result::after { display: table; clear: both; content: ""; }
+#user-content-toc ul ul li::before { float: left; margin-top: -0.2em; margi=
+n-right: 0.2em; font-size: 1.2em; line-height: 1; color: rgb(170, 170, 170)=
+; content: "=E2=8C=9E"; }
+.user-select-contain {  }
+.marketing-section::before { display: table; content: ""; }
+.marketing-section::after { display: table; clear: both; content: ""; }
+@keyframes rotate {
+  0% { transform: rotate(0deg); }
+  100% { transform: rotate(-360deg); }
+}
+@keyframes rotate {
+  0% { transform: rotate(0deg); }
+  100% { transform: rotate(-360deg); }
+}
+.intgrs-lstng-item-description::after { position: absolute; right: 0px; bot=
+tom: 0px; padding: 0px 15px 0px 20px; color: transparent; content: "=C2=A0"=
+; background-image: linear-gradient(to right, rgba(255, 255, 255, 0), rgb(2=
+55, 255, 255) 80%); }
+.intgr-install-callout .avatar-octicon-lockup .octicon::after { position:=
+ absolute; top: 6px; left: -1px; display: block; width: 7px; height: 2px;=
+ content: ""; background-color: rgb(255, 255, 255); transform: rotate(-45de=
+g); }
+@keyframes teamDev {
+  3% { color: rgb(189, 44, 0); fill: rgb(189, 44, 0); border-color: rgb(189=
+, 44, 0); }
+  27% { color: rgb(189, 44, 0); fill: rgb(189, 44, 0); border-color: rgb(18=
+9, 44, 0); }
+  30% { color: rgb(187, 187, 187); fill: rgb(187, 187, 187); border-color:=
+ rgb(204, 204, 204); }
+}
+@keyframes teamDev {
+  3% { color: rgb(189, 44, 0); fill: rgb(189, 44, 0); border-color: rgb(189=
+, 44, 0); }
+  27% { color: rgb(189, 44, 0); fill: rgb(189, 44, 0); border-color: rgb(18=
+9, 44, 0); }
+  30% { color: rgb(187, 187, 187); fill: rgb(187, 187, 187); border-color:=
+ rgb(204, 204, 204); }
+}
+@keyframes teamDesign {
+  34% { color: rgb(187, 187, 187); fill: rgb(187, 187, 187); border-color:=
+ rgb(204, 204, 204); }
+  37% { color: rgb(108, 198, 68); fill: rgb(108, 198, 68); border-color: rg=
+b(108, 198, 68); }
+  60% { color: rgb(108, 198, 68); fill: rgb(108, 198, 68); border-color: rg=
+b(108, 198, 68); }
+  63% { color: rgb(187, 187, 187); fill: rgb(187, 187, 187); border-color:=
+ rgb(204, 204, 204); }
+}
+@keyframes teamDesign {
+  34% { color: rgb(187, 187, 187); fill: rgb(187, 187, 187); border-color:=
+ rgb(204, 204, 204); }
+  37% { color: rgb(108, 198, 68); fill: rgb(108, 198, 68); border-color: rg=
+b(108, 198, 68); }
+  60% { color: rgb(108, 198, 68); fill: rgb(108, 198, 68); border-color: rg=
+b(108, 198, 68); }
+  63% { color: rgb(187, 187, 187); fill: rgb(187, 187, 187); border-color:=
+ rgb(204, 204, 204); }
+}
+@keyframes teamMarketing {
+  67% { color: rgb(187, 187, 187); fill: rgb(187, 187, 187); border-color:=
+ rgb(204, 204, 204); }
+  70% { color: rgb(201, 81, 12); fill: rgb(201, 81, 12); border-color: rgb(=
+201, 81, 12); }
+  94% { color: rgb(201, 81, 12); fill: rgb(201, 81, 12); border-color: rgb(=
+201, 81, 12); }
+}
+@keyframes teamMarketing {
+  67% { color: rgb(187, 187, 187); fill: rgb(187, 187, 187); border-color:=
+ rgb(204, 204, 204); }
+  70% { color: rgb(201, 81, 12); fill: rgb(201, 81, 12); border-color: rgb(=
+201, 81, 12); }
+  94% { color: rgb(201, 81, 12); fill: rgb(201, 81, 12); border-color: rgb(=
+201, 81, 12); }
+}
+@keyframes teamDevDesign {
+  3% { color: rgb(189, 44, 0); fill: rgb(189, 44, 0); border-color: rgb(189=
+, 44, 0); }
+  27% { color: rgb(189, 44, 0); fill: rgb(189, 44, 0); border-color: rgb(18=
+9, 44, 0); }
+  30% { color: rgb(187, 187, 187); fill: rgb(187, 187, 187); border-color:=
+ rgb(204, 204, 204); }
+  34% { color: rgb(187, 187, 187); fill: rgb(187, 187, 187); border-color:=
+ rgb(204, 204, 204); }
+  37% { color: rgb(108, 198, 68); fill: rgb(108, 198, 68); border-color: rg=
+b(108, 198, 68); }
+  60% { color: rgb(108, 198, 68); fill: rgb(108, 198, 68); border-color: rg=
+b(108, 198, 68); }
+  63% { color: rgb(187, 187, 187); fill: rgb(187, 187, 187); border-color:=
+ rgb(204, 204, 204); }
+}
+@keyframes teamDevDesign {
+  3% { color: rgb(189, 44, 0); fill: rgb(189, 44, 0); border-color: rgb(189=
+, 44, 0); }
+  27% { color: rgb(189, 44, 0); fill: rgb(189, 44, 0); border-color: rgb(18=
+9, 44, 0); }
+  30% { color: rgb(187, 187, 187); fill: rgb(187, 187, 187); border-color:=
+ rgb(204, 204, 204); }
+  34% { color: rgb(187, 187, 187); fill: rgb(187, 187, 187); border-color:=
+ rgb(204, 204, 204); }
+  37% { color: rgb(108, 198, 68); fill: rgb(108, 198, 68); border-color: rg=
+b(108, 198, 68); }
+  60% { color: rgb(108, 198, 68); fill: rgb(108, 198, 68); border-color: rg=
+b(108, 198, 68); }
+  63% { color: rgb(187, 187, 187); fill: rgb(187, 187, 187); border-color:=
+ rgb(204, 204, 204); }
+}
+@keyframes teamDevDesignMarketing {
+  3% { color: rgb(189, 44, 0); fill: rgb(189, 44, 0); border-color: rgb(189=
+, 44, 0); }
+  27% { color: rgb(189, 44, 0); fill: rgb(189, 44, 0); border-color: rgb(18=
+9, 44, 0); }
+  30% { color: rgb(187, 187, 187); fill: rgb(187, 187, 187); border-color:=
+ rgb(204, 204, 204); }
+  34% { color: rgb(187, 187, 187); fill: rgb(187, 187, 187); border-color:=
+ rgb(204, 204, 204); }
+  37% { color: rgb(108, 198, 68); fill: rgb(108, 198, 68); border-color: rg=
+b(108, 198, 68); }
+  60% { color: rgb(108, 198, 68); fill: rgb(108, 198, 68); border-color: rg=
+b(108, 198, 68); }
+  63% { color: rgb(187, 187, 187); fill: rgb(187, 187, 187); border-color:=
+ rgb(204, 204, 204); }
+  67% { color: rgb(187, 187, 187); fill: rgb(187, 187, 187); border-color:=
+ rgb(204, 204, 204); }
+  70% { color: rgb(201, 81, 12); fill: rgb(201, 81, 12); border-color: rgb(=
+201, 81, 12); }
+  94% { color: rgb(201, 81, 12); fill: rgb(201, 81, 12); border-color: rgb(=
+201, 81, 12); }
+}
+@keyframes teamDevDesignMarketing {
+  3% { color: rgb(189, 44, 0); fill: rgb(189, 44, 0); border-color: rgb(189=
+, 44, 0); }
+  27% { color: rgb(189, 44, 0); fill: rgb(189, 44, 0); border-color: rgb(18=
+9, 44, 0); }
+  30% { color: rgb(187, 187, 187); fill: rgb(187, 187, 187); border-color:=
+ rgb(204, 204, 204); }
+  34% { color: rgb(187, 187, 187); fill: rgb(187, 187, 187); border-color:=
+ rgb(204, 204, 204); }
+  37% { color: rgb(108, 198, 68); fill: rgb(108, 198, 68); border-color: rg=
+b(108, 198, 68); }
+  60% { color: rgb(108, 198, 68); fill: rgb(108, 198, 68); border-color: rg=
+b(108, 198, 68); }
+  63% { color: rgb(187, 187, 187); fill: rgb(187, 187, 187); border-color:=
+ rgb(204, 204, 204); }
+  67% { color: rgb(187, 187, 187); fill: rgb(187, 187, 187); border-color:=
+ rgb(204, 204, 204); }
+  70% { color: rgb(201, 81, 12); fill: rgb(201, 81, 12); border-color: rgb(=
+201, 81, 12); }
+  94% { color: rgb(201, 81, 12); fill: rgb(201, 81, 12); border-color: rgb(=
+201, 81, 12); }
+}
+@keyframes bounceIn {
+  0% { opacity: 0; transform: scale(0.3); }
+  50% { opacity: 1; transform: scale(1.05); }
+  70% { transform: scale(0.9); }
+  100% { transform: scale(1); }
+}
+@keyframes bounceIn {
+  0% { opacity: 0; transform: scale(0.3); }
+  50% { opacity: 1; transform: scale(1.05); }
+  70% { transform: scale(0.9); }
+  100% { transform: scale(1); }
+}
+@keyframes fadeIn {
+  0% { opacity: 0; }
+  100% { opacity: 1; }
+}
+@keyframes fadeIn {
+  0% { opacity: 0; }
+  100% { opacity: 1; }
+}
+.segmented-nav-tab::before { display: table; content: ""; }
+.segmented-nav-tab::after { display: table; clear: both; content: ""; }
+.billing-plans .coupon.expiring .coupon-label::after { border-bottom-color:=
+ rgb(223, 110, 0); }
+.coupon-label::after { position: absolute; bottom: 100%; left: 15px; width:=
+ 0px; height: 0px; pointer-events: none; content: " "; border-style: solid;=
+ border-color: transparent transparent rgb(108, 198, 68); -moz-border-top-c=
+olors: none; -moz-border-right-colors: none; -moz-border-bottom-colors: non=
+e; -moz-border-left-colors: none; border-image: none; border-width: 5px; }
+.billing-addon-items tr:nth-child(2n) { background-color: rgb(250, 250, 250=
+); }
+.billing-per-seat-callout::after { position: absolute; top: 1px; left: 25px=
+; display: block; width: 12px; height: 12px; content: ""; background-color:=
+ rgb(250, 250, 250); box-shadow: 1px -1px 0px 0px rgb(238, 238, 238); trans=
+form: translate(-50%, -50%) rotate(-45deg); }
+.payment-methods .selected-payment-method::before { display: table; content=
+: ""; }
+.payment-methods .selected-payment-method::after { display: table; clear:=
+ both; content: ""; }
+.billing-line-item::before { display: table; content: ""; }
+.billing-line-item::after { display: table; clear: both; content: ""; }
+.billing-confirmation-box .boxes::before { display: table; content: ""; }
+.billing-confirmation-box .boxes::after { display: table; clear: both; cont=
+ent: ""; }
+.blob-interaction-bar::before { display: table; content: ""; }
+.blob-interaction-bar::after { display: table; clear: both; content: ""; }
+.blog-content .markdown-body::after { clear: none; }
+.branch-action-body::after, .branch-action-body::before { position: absolut=
+e; top: 11px; right: 100%; left: -16px; display: block; width: 0px; height:=
+ 0px; pointer-events: none; content: " "; border-color: transparent; border=
+-style: solid solid outset; }
+.branch-action-body::after { margin-top: 1px; margin-left: 2px; border-widt=
+h: 7px; border-right-color: rgb(255, 255, 255); }
+.branch-action-body::before { border-width: 8px; border-right-color: rgb(22=
+1, 221, 221); }
+.branch-action-state-clean .branch-action-body::before { border-right-color=
+: rgb(149, 201, 126); }
+.branch-action-state-unknown .branch-action-body::before, .branch-action-st=
+ate-unstable .branch-action-body::before { border-right-color: rgb(226, 204=
+, 122); }
+.branch-action-state-merged .branch-action-body::before { border-right-colo=
+r: rgb(203, 192, 219); }
+.branch-action-state-dirty .branch-action-body::before, .branch-action-stat=
+e-closed-dirty .branch-action-body::before, .is-rebasing .branch-action-sta=
+te-dirty-if-rebasing .branch-action-body::before { border-right-color: rgb(=
+221, 221, 221); }
+.branch-action-state-error .branch-action-body::before { border-right-color=
+: rgb(233, 122, 116); }
+.merge-branch-form .commit-form::before { border-right-color: rgb(149, 201,=
+ 126); }
+.merge-branch-form.error .commit-form::before, .merge-branch-form.danger .c=
+ommit-form::before { border-right-color: rgb(233, 122, 116); }
+.branch-group::before { display: table; content: ""; }
+.branch-group::after { display: table; clear: both; content: ""; }
+.existing-pull .list-group-item::before { display: table; content: ""; }
+.existing-pull .list-group-item::after { display: table; clear: both; conte=
+nt: ""; }
+.select-menu-item { text-align: left; background-color: rgb(255, 255, 255);=
+ border-top: 0px none; border-right: 0px none; border-left: 0px none; }
+@keyframes broadCastMaskFade {
+  0% { opacity: 0; }
+  30% { opacity: 1; }
+  70% { opacity: 1; }
+  100% { opacity: 0; }
+}
+@keyframes broadCastMaskFade {
+  0% { opacity: 0; }
+  30% { opacity: 1; }
+  70% { opacity: 1; }
+  100% { opacity: 0; }
+}
+.discussion-timeline::before { position: absolute; top: 0px; bottom: 0px;=
+ left: 79px; z-index: -1; display: block; width: 2px; content: ""; backgrou=
+nd-color: rgb(243, 243, 243); }
+.participation-avatars::before { display: table; content: ""; }
+.participation-avatars::after { display: table; clear: both; content: "";=
+ }
+.inline-comment-form::before { display: table; content: ""; }
+.inline-comment-form::after { display: table; clear: both; content: ""; }
+.gh-header-edit::before { display: table; content: ""; }
+.gh-header-edit::after { display: table; clear: both; content: ""; }
+.timeline-comment-wrapper > .timeline-comment::after, .timeline-comment-wra=
+pper > .timeline-comment::before, .timeline-new-comment .timeline-comment::=
+after, .timeline-new-comment .timeline-comment::before { position: absolute=
+; top: 11px; right: 100%; left: -16px; display: block; width: 0px; height:=
+ 0px; pointer-events: none; content: " "; border-color: transparent; border=
+-style: solid solid outset; }
+.timeline-comment-wrapper > .timeline-comment::after, .timeline-new-comment=
+ .timeline-comment::after { margin-top: 1px; margin-left: 2px; border-width=
+: 7px; border-right-color: rgb(247, 247, 247); }
+.timeline-comment-wrapper > .timeline-comment::before, .timeline-new-commen=
+t .timeline-comment::before { border-width: 8px; border-right-color: rgb(22=
+1, 221, 221); }
+.timeline-comment-wrapper .timeline-comment.current-user::after, .timeline-=
+comment-wrapper .timeline-comment.current-user::before { position: absolute=
+; top: 11px; right: 100%; left: -16px; display: block; width: 0px; height:=
+ 0px; pointer-events: none; content: " "; border-color: transparent; border=
+-style: solid solid outset; }
+.timeline-comment-wrapper .timeline-comment.current-user::after { margin-to=
+p: 1px; margin-left: 2px; border-width: 7px; border-right-color: rgb(242,=
+ 248, 250); }
+.timeline-comment-wrapper .timeline-comment.current-user::before { border-w=
+idth: 8px; border-right-color: rgb(191, 204, 209); }
+.timeline-comment-wrapper .timeline-comment.unread-item::after, .timeline-c=
+omment-wrapper .timeline-comment.unread-item::before { position: absolute;=
+ top: 11px; right: 100%; left: -16px; display: block; width: 0px; height:=
+ 0px; pointer-events: none; content: " "; border-color: transparent; border=
+-style: solid solid outset; }
+.timeline-comment-wrapper .timeline-comment.unread-item::after { margin-top=
+: 1px; margin-left: 2px; border-width: 7px; border-right-color: rgb(255, 24=
+9, 234); }
+.timeline-comment-wrapper .timeline-comment.unread-item::before { border-wi=
+dth: 8px; border-right-color: rgb(223, 216, 194); }
+.timeline-comment.will-transition-once::before, .timeline-comment.will-tran=
+sition-once::after { transition: border-right-color 0.65s ease-in-out 0s;=
+ }
+.timeline-comment .comment + .comment::before, .timeline-comment .comment=
+ + .comment::after { display: none; }
+.new-discussion-timeline .composer .timeline-comment::after { border-right-=
+color: rgb(255, 255, 255); }
+.discussion-item-review .timeline-comment::before, .discussion-item-review=
+ .timeline-comment::after { display: none; }
+.review-summary::after, .review-summary::before { position: absolute; left:=
+ 11px; content: " "; border-color: transparent transparent rgb(255, 255, 25=
+5); border-style: solid; border-width: 8px; }
+.review-summary::after { top: -15px; border-bottom-color: rgb(255, 255, 255=
+); }
+.review-summary::before { top: -16px; border-bottom-color: rgb(221, 221, 22=
+1); }
+.explore-section:nth-child(2n) { background: rgb(249, 249, 249) none repeat=
+ scroll 0% 0%; }
+.explore-section:nth-child(2n) .repo-collection > ul { background: rgb(255,=
+ 255, 255) none repeat scroll 0% 0%; }
+.explore-section:nth-child(2n+1):last-child { padding-bottom: 0px; border-b=
+ottom: 0px none; }
+.file-header::before { display: table; content: ""; }
+.file-header::after { display: table; clear: both; content: ""; }
+h2.ghead::after { display: block; height: 0px; clear: both; visibility: hid=
+den; content: "."; }
+.svg-tip::after { position: absolute; bottom: -10px; left: 50%; width: 5px;=
+ height: 5px; box-sizing: border-box; margin: 0px 0px 0px -5px; content: "=
+ "; border-width: 5px; border-style: solid; border-color: rgba(0, 0, 0, 0.8=
+) transparent transparent; -moz-border-top-colors: none; -moz-border-right-=
+colors: none; -moz-border-bottom-colors: none; -moz-border-left-colors: non=
+e; border-image: none; }
+.header { padding-top: 10px; padding-bottom: 10px; background-color: rgb(24=
+5, 245, 245); border-bottom: 1px solid rgb(229, 229, 229); }
+.header-logo-invertocat { float: left; margin-right: 10px; margin-left: -2p=
+x; color: rgb(51, 51, 51); white-space: nowrap; }
+.header-logo-invertocat .octicon-mark-github { float: left; font-size: 28px=
+; }
+.header-logo-invertocat:hover { color: rgb(64, 120, 192); text-decoration:=
+ none; }
+.notification-indicator .mail-status { position: absolute; top: -2px; right=
+: 3px; z-index: 2; display: none; width: 14px; height: 14px; color: rgb(255=
+, 255, 255); text-align: center; background-image: linear-gradient(rgb(122,=
+ 161, 211), rgb(64, 120, 192)); background-clip: padding-box; border: 2px=
+ solid rgb(243, 243, 243); border-radius: 50%; }
+.notification-indicator:hover .mail-status { background-color: rgb(64, 120,=
+ 192); }
+.header-search { float: left; width: 360px; margin-right: 10px; }
+.header-search-wrapper { display: table; width: 100%; max-width: 100%; min-=
+height: 0px; padding: 0px; font-weight: normal; vertical-align: middle; }
+.header-search-input { display: table-cell; width: 99%; min-height: 26px;=
+ padding-top: 0px; padding-bottom: 0px; font-size: 13px; background: transp=
+arent none repeat scroll 0% 0%; border: 0px none; box-shadow: none; }
+.header-search-input:focus { border: 0px none; box-shadow: none; }
+.header-search-scope { display: none; width: 1%; padding-right: 8px; paddin=
+g-left: 8px; font-size: 12px; color: rgb(118, 118, 118); white-space: nowra=
+p; vertical-align: middle; border-right: 1px solid rgb(238, 238, 238); bord=
+er-top-left-radius: 2px; border-bottom-left-radius: 2px; }
+.scoped-search .header-search-scope { display: table-cell; }
+.header-nav { list-style: outside none none; }
+.header-nav-item { float: left; }
+.header-nav-item.active .tooltipped::before, .header-nav-item.active .toolt=
+ipped::after { display: none; }
+.header-nav-item .dropdown-menu { width: 180px; margin-top: 13px; }
+.header-nav-link { display: block; padding: 4px 8px; font-size: 13px; font-=
+weight: 600; line-height: 20px; color: rgb(51, 51, 51); }
+.header-nav-link:hover, .header-nav-link:focus { color: rgb(64, 120, 192);=
+ text-decoration: none; }
+.header-nav-link:hover .dropdown-caret, .header-nav-link:focus .dropdown-ca=
+ret { border-top-color: rgb(64, 120, 192); }
+.user-nav { margin-right: -8px; }
+.user-nav .header-nav-link { height: 28px; }
+.user-nav .octicon { width: 16px; text-align: center; }
+.user-nav .octicon-plus { margin-top: 1px; margin-right: 1px; }
+.user-nav .octicon-bell { vertical-align: text-bottom; }
+.user-nav .avatar { float: left; margin-right: 5px; }
+.header-nav-current-user { padding-bottom: 0px; font-size: inherit; }
+.header-nav-current-user .css-truncate-target { max-width: 100%; }
+.accessibility-aid { position: absolute; width: 1px; height: 1px; margin:=
+ 0px; overflow: hidden; clip: rect(1px, 1px, 1px, 1px); }
+.accessibility-aid:focus { top: 0px; z-index: 1; width: auto; height: auto;=
+ padding: 0px 10px; clip: auto; font-weight: bold; line-height: 49px; color=
+: rgb(51, 51, 51); text-decoration: none; background: rgb(245, 245, 245) no=
+ne repeat scroll 0% 0%; }
+.job-posting-list-item .job-posting-unpublished::before { content: "=C2=B7=
+=C2=A0"; }
+.job-posting-details-list .job-posting-detail + .job-posting-detail::before=
+ { content: "=C2=A0=C2=B7=C2=A0"; }
+.job-posting-credits-list .job-posting-credit-user + .job-posting-credit-da=
+te::before { padding-right: 0.3em; padding-left: 0.3em; content: "=C2=B7"; }
+.new-issue-form::before { display: table; content: ""; }
+.new-issue-form::after { display: table; clear: both; content: ""; }
+.new-issue-form .discussion-timeline::before { display: none; }
+.new-pr-form::before { display: table; content: ""; }
+.new-pr-form::after { display: table; clear: both; content: ""; }
+.new-pr-form .discussion-timeline::before { display: none; }
+.ellipsis-button::before { content: "=E2=80=A6"; }
+.oauth-permissions-details.default:not(.delete) .no-access, .oauth-permissi=
+ons-details.default:not(.delete) .default-access, .oauth-permissions-detail=
+s.none .no-access, .oauth-permissions-details.none .default-access { displa=
+y: inline; }
+.oauth-permissions-details.default:not(.delete) .access-details, .oauth-per=
+missions-details.default:not(.delete) .permission-title, .oauth-permissions=
+-details.none .access-details, .oauth-permissions-details.none .permission-=
+title { color: rgb(153, 153, 153); }
+.oauth-permissions-details.default:not(.delete) .octicon, .oauth-permission=
+s-details.none .octicon { color: rgb(204, 204, 204); }
+.audit-search-form::before { display: table; content: ""; }
+.audit-search-form::after { display: table; clear: both; content: ""; }
+.graticule :nth-child(2n) { stroke-dasharray: 2, 2; }
+.audit-results-header::before { display: table; content: ""; }
+.audit-results-header::after { display: table; clear: both; content: ""; }
+.export-actions .select-menu-button::after { position: absolute; top: 50%;=
+ right: 15px; margin-top: -2px; }
+.audit-log-export-button.disabled::after { display: none; }
+.member-avatar-group::before { display: table; content: ""; }
+.member-avatar-group::after { display: table; clear: both; content: ""; }
+.member-row::before { display: table; content: ""; }
+.member-row::after { display: table; clear: both; content: ""; }
+.org-list .list-item::before { display: table; content: ""; }
+.org-list .list-item::after { display: table; clear: both; content: ""; }
+.permission-level-cell .select-menu-button::after { position: absolute; top=
+: 10px; right: 10px; }
+.migration-jumbotron::after, .migration-sub-header::after { position: absol=
+ute; top: 0px; right: 0px; bottom: 0px; left: 0px; z-index: 1; content: "=
+ "; background-image: url("urn:not-loaded:https://assets-cdn.github.com/ima=
+ges/modules/orgs/dots-bg.png"); background-repeat: repeat; background-size:=
+ 80% auto; opacity: 0.75; }
+.migration-jumbotron-octicon-item::after { position: absolute; top: 1px; ri=
+ght: 1px; bottom: 1px; left: 1px; content: ""; background-color: rgb(56, 63=
+, 71); border-radius: 50px; }
+.migration-feature-list::before { display: block; width: 100px; margin-bott=
+om: 30px; content: ""; border-top: 1px solid rgb(221, 221, 221); }
+.migration-illustration-wrapper::before { display: table; content: ""; }
+.migration-illustration-wrapper::after { display: table; clear: both; conte=
+nt: ""; }
+.migrate-org-roles .tooltipped::after { width: 150px; white-space: normal; }
+.migrate-org-avatar-list::before { display: table; content: ""; }
+.migrate-org-avatar-list::after { display: table; clear: both; content: "";=
+ }
+.migrate-org-avatar-list .tooltipped::after { width: auto; white-space: now=
+rap; }
+.org-settings-teams::before { display: table; content: ""; }
+.org-settings-teams::after { display: table; clear: both; content: ""; }
+.manage-user-info::before { display: table; content: ""; }
+.manage-user-info::after { display: table; clear: both; content: ""; }
+.manage-repo-access-header::before { display: table; content: ""; }
+.manage-repo-access-header::after { display: table; clear: both; content:=
+ ""; }
+.manage-repo-access-header .tooltipped::after { width: 250px; white-space:=
+ normal; }
+.manage-repo-access-wrapper::before { position: absolute; top: 15px; bottom=
+: 15px; left: 20px; z-index: 1; display: block; width: 2px; content: ""; ba=
+ckground-color: rgb(238, 238, 238); }
+.manage-access-remove-footer .tooltipped::after { width: 250px; white-space=
+: normal; }
+.invited .team-member-list .list-item::before { display: table; content: ""=
+; }
+.invited .team-member-list .list-item::after { display: table; clear: both;=
+ content: ""; }
+.invited-banner::before { display: table; content: ""; }
+.invited-banner::after { display: table; clear: both; content: ""; }
+.theme-selector-actions::before { display: table; content: ""; }
+.theme-selector-actions::after { display: table; clear: both; content: ""; }
+.pjax-loader-bar { position: fixed; top: 0px; left: 0px; z-index: 40; opaci=
+ty: 0; transition: opacity 0.4s linear 0.4s; }
+.pjax-loader-bar .progress { position: fixed; top: 0px; left: 0px; height:=
+ 2px; background: rgb(119, 182, 255) none repeat scroll 0% 0%; box-shadow:=
+ 0px 0px 10px rgba(119, 182, 255, 0.7); transition: width 0.4s ease 0s; }
+@keyframes highlight-card {
+  0% { border-color: rgb(81, 167, 232); box-shadow: 0px 0px 5px rgba(81, 16=
+7, 232, 0.7); }
+  100% { border-color: rgb(229, 229, 229); box-shadow: 0px 0px 5px rgba(81,=
+ 167, 232, 0); }
+}
+@keyframes highlight-card {
+  0% { border-color: rgb(81, 167, 232); box-shadow: 0px 0px 5px rgba(81, 16=
+7, 232, 0.7); }
+  100% { border-color: rgb(229, 229, 229); box-shadow: 0px 0px 5px rgba(81,=
+ 167, 232, 0); }
+}
+.vcard-stats::before { display: table; content: ""; }
+.vcard-stats::after { display: table; clear: both; content: ""; }
+.user-profile-sticky-bar::after { position: fixed; top: 0px; right: 0px; le=
+ft: 0px; z-index: 100; display: none; height: 62px; content: ""; background=
+-color: rgb(255, 255, 255); border-bottom: 1px solid rgb(221, 221, 221); bo=
+x-shadow: 0px 1px 2px rgba(0, 0, 0, 0.075); opacity: 0; transition: all 0.2=
+s ease 0s; }
+.user-profile-sticky-bar.is-stuck::after { display: block; opacity: 1; }
+.vcard-names-container.is-stuck::after { opacity: 1; }
+.profile-timeline.discussion-timeline .profile-timeline-month-heading::afte=
+r { position: absolute; top: 12px; z-index: -1; width: 100%; height: 1px;=
+ content: ""; background-color: rgb(245, 245, 245); }
+.profile-timeline.discussion-timeline::before { left: 11px; background-colo=
+r: rgb(245, 245, 245); }
+.pr-toolbar::before { display: table; content: ""; }
+.pr-toolbar::after { display: table; clear: both; content: ""; }
+.pr-toolbar.is-stuck::after { position: fixed; top: 0px; right: 0px; left:=
+ 0px; z-index: -1; display: block; height: 60px; content: ""; border-bottom=
+: 1px solid rgba(0, 0, 0, 0.1); box-shadow: 0px 1px 2px rgba(0, 0, 0, 0.075=
+); }
+.diffbar::before { display: table; content: ""; }
+.diffbar::after { display: table; clear: both; content: ""; }
+.diffbar-range-menu .select-menu-item:not(.select-menu-action) { padding:=
+ 8px 10px; }
+.tutorial::before, .tutorial::after { position: absolute; display: inline-b=
+lock; content: ""; }
+.tutorial::before { border: 8px solid transparent; }
+.tutorial::after { border: 7px solid transparent; }
+.tutorial-e::before { top: 50px; left: -17px; border-right-color: rgba(0,=
+ 0, 0, 0.15); }
+.tutorial-e::after { top: 51px; left: -14px; border-right-color: rgb(255,=
+ 255, 255); }
+.tutorial-nw::before { right: 39px; bottom: -16px; left: auto; border-top-c=
+olor: rgba(0, 0, 0, 0.15); }
+.tutorial-nw::after { right: 40px; bottom: -14px; left: auto; border-top-co=
+lor: rgb(255, 255, 255); }
+.pull-request-review-menu::after, .pull-request-review-menu::before { displ=
+ay: none; }
+.review-thread:not(:last-child) { margin-bottom: 12px; }
+.review-comment-contents::after, .review-comment.is-comment-editing::after=
+ { position: absolute; top: 31px; left: 24px; z-index: -1; width: 3px; heig=
+ht: 100%; content: ""; background-color: rgb(245, 245, 245); }
+.review-comment::before { display: table; content: ""; }
+.review-comment::after { display: table; clear: both; content: ""; }
+.review-comment .reaction-summary-item:not(.add-reaction-btn) { padding: 3p=
+x 8px 0px; border: 1px solid rgb(210, 223, 240); border-radius: 3px; }
+.review-comment .reaction-summary-item:not(.add-reaction-btn), .review-comm=
+ent .reaction-summary-item:not(.add-reaction-btn) .emoji { font-size: 12px;=
+ }
+.review-comment .reaction-summary-item:not(.add-reaction-btn) .emoji { marg=
+in-right: 0px; font-size: 16px; vertical-align: sub; }
+.review-comment .reaction-summary-item:not(.add-reaction-btn) + .reaction-s=
+ummary-item { margin-left: 6px; }
+.review-comment:last-child::after, .review-comment:last-child .review-comme=
+nt-contents::after { display: none; }
+.review-comment.is-comment-editing::after { top: 100%; bottom: -16px; left:=
+ 11px; height: 16px; }
+.tooltipped-left::after { right: auto; left: 0px; }
+.tooltipped-left::before { right: auto; left: 0px; }
+.release-timeline-tags > li::before { display: table; content: ""; }
+.release-timeline-tags > li::after { display: table; clear: both; content:=
+ ""; }
+.release-timeline-tags .date::after { position: absolute; top: 50%; right:=
+ -7px; z-index: 10; display: block; width: 12px; height: 12px; box-sizing:=
+ border-box; margin-top: -6px; content: " "; background-color: rgb(238, 238=
+, 238); border: 2px solid rgb(255, 255, 255); border-radius: 6px; }
+.release-timeline-tags .expander .date::after { display: none; }
+.release::before { display: table; content: ""; }
+.release::after { display: table; clear: both; content: ""; }
+.uploaded-files > li.delete:nth-child(2) { border-top-left-radius: 3px; bor=
+der-top-right-radius: 3px; }
+.uploaded-files > li:nth-child(2) { border-top: 0px none; }
+.releases-target-menu .select-menu-button::before { top: 14px; }
+.filter-bar::before { display: table; content: ""; }
+.filter-bar::after { display: table; clear: both; content: ""; }
+.empty-repo { font-size: 14px; }
+.empty-repo .url-box { display: block; width: 100%; height: auto; padding:=
+ 0px; margin: 0px; border: 0px none; }
+.empty-repo .clone-urls { width: 100%; }
+.empty-repo .or-text { margin-right: 5px; margin-left: 5px; }
+.empty-repo-setup-option .copyable-terminal-content { font-size: 14px; }
+.empty-repo-setup-option h3 { margin-top: 0px; }
+.empty-repo-setup-option p:last-child { margin-bottom: 0px; }
+.url-box { width: 100%; height: 26px; padding: 10px 10px 0px; margin-top:=
+ 10px; margin-left: -10px; border-top: 1px solid rgb(221, 221, 221); }
+.clone-urls { display: table; float: left; width: 585px; }
+.clone-url-button { display: table-cell; width: 1%; vertical-align: top; }
+.clone-url-button:first-child .clone-url-link { border-top-left-radius: 3px=
+; border-bottom-left-radius: 3px; }
+.clone-url-button > .clone-url-link { position: relative; display: block;=
+ padding: 0px 9px; margin-right: -1px; font-size: 11px; font-weight: bold;=
+ line-height: 26px; color: rgb(51, 51, 51); text-decoration: none; text-sha=
+dow: 0px 1px 0px rgb(255, 255, 255); white-space: nowrap; cursor: pointer;=
+ background-image: linear-gradient(rgb(250, 250, 250), rgb(234, 234, 234));=
+ border: 1px solid rgb(204, 204, 204); }
+.clone-url-button > .clone-url-link:hover, .clone-url-button > .clone-url-l=
+ink:active { z-index: 3; color: rgb(255, 255, 255); text-decoration: none;=
+ text-shadow: 0px -1px 0px rgba(0, 0, 0, 0.25); background-image: linear-gr=
+adient(rgb(89, 155, 205), rgb(48, 114, 179)); border-color: rgb(42, 101, 16=
+0); }
+.clone-url-button > .clone-url-link:active { background-color: rgb(48, 114,=
+ 179); background-image: none; border-color: rgb(37, 88, 140); box-shadow:=
+ 0px 3px 5px rgba(0, 0, 0, 0.15) inset; }
+.clone-url-button > .clone-url-link:focus { outline: 0px none; }
+.clone-url-button + .clone-url-button > .clone-url-link { box-shadow: 1px=
+ 0px 0px rgb(255, 255, 255) inset; }
+.clone-url-button + .clone-url-button > .clone-url-link:hover { box-shadow:=
+ none; }
+.clone-url-button + .clone-url-button > .clone-url-link:active { box-shadow=
+: 0px 3px 5px rgba(0, 0, 0, 0.15) inset; }
+.clone-url-button.selected > .clone-url-link, .clone-url-button.selected >=
+ .clone-url-link:hover { z-index: 2; color: rgb(51, 51, 51); text-shadow:=
+ 0px 1px 0px rgba(255, 255, 255, 0.6); background-color: rgb(204, 204, 204)=
+; background-image: linear-gradient(rgb(204, 204, 204), rgb(213, 213, 213))=
+; border-color: rgb(187, 187, 187); box-shadow: 0px 2px 3px rgba(0, 0, 0,=
+ 0.075) inset; }
+.url-box-clippy .zeroclipboard-button { margin-left: 0px ! important; borde=
+r-left: 0px none; border-radius: 0px 3px 3px 0px; }
+.pagehead.repohead .select-menu .select-menu-modal-holder { z-index: 25; }
+.repository-meta::before { display: table; content: ""; }
+.repository-meta::after { display: table; clear: both; content: ""; }
+.file-navigation::before { display: table; content: ""; }
+.file-navigation::after { display: table; clear: both; content: ""; }
+.file-navigation .get-repo-btn:nth-child(1):nth-last-child(3) { border-radi=
+us: 0px; }
+table.files .message .tooltipped::before, table.files .message .tooltipped:=
+:after { display: none; }
+.branch-infobar::before { display: table; content: ""; }
+.branch-infobar::after { display: table; clear: both; content: ""; }
+.two-factor-recovery-code::before { position: relative; top: 1px; margin-ri=
+ght: 10px; font-size: 26px; color: rgb(234, 234, 234); content: "=E2=96=A1"=
+; }
+.sms-or-app::before { display: table; content: ""; }
+.sms-or-app::after { display: table; clear: both; content: ""; }
+li.session-device.session-current .sessions-more-info::after { border-top-c=
+olor: rgb(255, 255, 255); }
+.listgroup-item::before { display: table; content: ""; }
+.listgroup-item::after { display: table; clear: both; content: ""; }
+.user-already-added::after { display: inline-block; padding: 1px 5px; margi=
+n-left: 6px; font-size: 11px; line-height: 1.4; color: rgb(255, 255, 255);=
+ content: "Already added"; background-color: rgb(201, 81, 12); border-radiu=
+s: 3px; }
+@keyframes toggle-color {
+  0% { background-color: transparent; }
+  50% { color: rgb(76, 74, 66); background-color: rgb(255, 249, 234); borde=
+r-color: rgb(223, 216, 194); }
+  100% { background-color: transparent; }
+}
+@keyframes toggle-color {
+  0% { background-color: transparent; }
+  50% { color: rgb(76, 74, 66); background-color: rgb(255, 249, 234); borde=
+r-color: rgb(223, 216, 194); }
+  100% { background-color: transparent; }
+}
+.repository-merge-features .form-group.errored .error::before, .repository-=
+merge-features .form-group.errored .error::after { display: none; }
+.setup-wrapper::before { display: table; content: ""; }
+.setup-wrapper::after { display: table; clear: both; content: ""; }
+.features-list .tooltipped::after { width: 250px; white-space: normal; }
+.showcase-page-pattern::after { position: absolute; top: 0px; right: 0px;=
+ bottom: 0px; left: 0px; display: block; content: ""; background-image: lin=
+ear-gradient(180deg, rgba(255, 255, 255, 0.85), rgb(255, 255, 255)); }
+.uniques-graph .axis .tick:nth-child(14) line { stroke: rgb(29, 127, 179);=
+ stroke-width: 2px; }
+table.capped-list tr:nth-child(2n) { background-color: rgb(252, 252, 252); }
+.traffic-graph-stats .summary-stats::before { display: table; content: ""; }
+.traffic-graph-stats .summary-stats::after { display: table; clear: both;=
+ content: ""; }
+.wiki-wrapper .wiki-auxiliary-content.markdown-body.wiki-writable > :nth-ch=
+ild(2) { margin-top: 0px ! important; }
+.wiki-wrapper .wiki-custom-sidebar > :nth-child(2) { margin-top: 0px; }
+
+------=_NextPart_000_0000_FB6A2390.6C4BDF9B
+Content-Type: application/x-javascript
+Content-Transfer-Encoding: quoted-printable
+Content-Location: urn:snapshot-5FB359D7:https://assets-cdn.github.com/assets/frameworks-411d610e4b2b1ffa3d063904534406d08c8351d9ba9b4b3f339bab35e86bb4f3.js
+
+/* Script removed by snapshot save */
+
+------=_NextPart_000_0000_FB6A2390.6C4BDF9B
+Content-Type: application/x-javascript
+Content-Transfer-Encoding: quoted-printable
+Content-Location: urn:snapshot-E22B08FA:https://assets-cdn.github.com/assets/github-52a631b0fed6cace95dbc79ae8f778091e0cef04a525e4ad1091877502ccc091.js
+
+/* Script removed by snapshot save */
+
+------=_NextPart_000_0000_FB6A2390.6C4BDF9B--
